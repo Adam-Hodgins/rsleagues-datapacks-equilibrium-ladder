@@ -1,41 +1,69 @@
 {
-  "logged_at": "2026-08-10T02:57:18.512695+00:00",
+  "logged_at": "2026-08-10T12:24:50.696384+00:00",
   "source_tracked": "https://script.google.com/macros/s/AKfycbyEamckhaHNvgDtq4Moe7T11gRb1FhG0dr88tKSbS8u0Jq7wStFq0QKYhzq5B68w3qx/exec?tracked=1&fresh=1",
-  "tracked_count": 67,
-  "scraped_count": 31,
-  "failed_count": 36,
+  "tracked_count": 74,
+  "scraped_count": 24,
+  "failed_count": 50,
   "failed": [
     {
       "name": "0-DEATH 0-0",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/0-DEATH%200-0"
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/0-DEATH%200-0"
+    },
+    {
+      "name": "19Crispy94",
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/19Crispy94"
     },
     {
       "name": "A Dumb Rat",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/A%20Dumb%20Rat"
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/A%20Dumb%20Rat"
     },
     {
       "name": "Adalone",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Adalone"
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/Adalone"
+    },
+    {
+      "name": "AdziiMate",
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/AdziiMate"
+    },
+    {
+      "name": "Aquamervine",
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/Aquamervine"
     },
     {
       "name": "astral maria",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/astral%20maria"
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/astral%20maria"
     },
     {
       "name": "AttackKrow",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/AttackKrow"
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/AttackKrow"
+    },
+    {
+      "name": "Awes0meGod",
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/Awes0meGod"
+    },
+    {
+      "name": "Bokchoiii",
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/Bokchoiii"
+    },
+    {
+      "name": "Booyaka_blah",
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/Booyaka_blah"
     },
     {
       "name": "brick hand",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/brick%20hand"
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/brick%20hand"
     },
     {
       "name": "Bronsmaneter",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Bronsmaneter"
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/Bronsmaneter"
     },
     {
       "name": "brun o",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/brun%20o"
+    },
+    {
+      "name": "Cailicat",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Cailicat"
     },
     {
       "name": "Catseatchees",
@@ -50,6 +78,18 @@
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Dorris%20Shutt"
     },
     {
+      "name": "Dwena",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Dwena"
+    },
+    {
+      "name": "ErebusServus",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/ErebusServus"
+    },
+    {
+      "name": "Exotic Nerd",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Exotic%20Nerd"
+    },
+    {
       "name": "fan of faker",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/fan%20of%20faker"
     },
@@ -62,24 +102,40 @@
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Fifth_sage"
     },
     {
+      "name": "G3MKRAFT3R",
+      "error": "500 Server Error: Internal Server Error for url: https://rs.runescape.com/hiscores/leagues/player/G3MKRAFT3R"
+    },
+    {
       "name": "Group Ulwan",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Group%20Ulwan"
     },
     {
-      "name": "Inferno Bren",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Inferno%20Bren"
+      "name": "Gudrus",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Gudrus"
+    },
+    {
+      "name": "H_Typhoon",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/H_Typhoon"
     },
     {
       "name": "Jade Fingers",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Jade%20Fingers"
     },
     {
-      "name": "Mage Orc 69",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Mage%20Orc%2069"
+      "name": "Juumm",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Juumm"
+    },
+    {
+      "name": "Lorden Kriss",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Lorden%20Kriss"
     },
     {
       "name": "Mass Epsilon",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Mass%20Epsilon"
+    },
+    {
+      "name": "misterdonut7",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/misterdonut7"
     },
     {
       "name": "MugiWugi3",
@@ -90,12 +146,12 @@
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Murhox"
     },
     {
-      "name": "Mystic Manor",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Mystic%20Manor"
+      "name": "OldenShaper",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/OldenShaper"
     },
     {
-      "name": "OG Vis",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/OG%20Vis"
+      "name": "OneIceburg",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/OneIceburg"
     },
     {
       "name": "panda lover0",
@@ -110,6 +166,10 @@
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/pond%20rat"
     },
     {
+      "name": "Pyr0mega",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Pyr0mega"
+    },
+    {
       "name": "Qwerty Ag",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Qwerty%20Ag"
     },
@@ -118,28 +178,24 @@
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/SoftCheeze"
     },
     {
-      "name": "the red lexx",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/the%20red%20lexx"
+      "name": "spinachtheif",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/spinachtheif"
     },
     {
-      "name": "ThePvmExpert",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/ThePvmExpert"
-    },
-    {
-      "name": "V2 in my Gym",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/V2%20in%20my%20Gym"
+      "name": "Velmare",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Velmare"
     },
     {
       "name": "Viper Bot",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Viper%20Bot"
     },
     {
-      "name": "W isp",
-      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/W%20isp"
-    },
-    {
       "name": "Wicky Woo",
       "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Wicky%20Woo"
+    },
+    {
+      "name": "Xufiie",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Xufiie"
     },
     {
       "name": "ZacksDopeGIM",
@@ -152,2013 +208,297 @@
   ],
   "players": [
     {
-      "name": "19Crispy94",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/19Crispy94",
-      "total_level": 2889,
-      "total_xp": 851585862,
-      "league_points": 33700,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 112,
-          "xp": 50068703
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 47015923
-        },
-        {
-          "name": "Strength",
-          "level": 112,
-          "xp": 50097666
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 53850173
-        },
-        {
-          "name": "Ranged",
-          "level": 95,
-          "xp": 9262081
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 25812495
-        },
-        {
-          "name": "Magic",
-          "level": 99,
-          "xp": 14152717
-        },
-        {
-          "name": "Cooking",
-          "level": 91,
-          "xp": 6474208
-        },
-        {
-          "name": "Woodcutting",
-          "level": 92,
-          "xp": 6751011
-        },
-        {
-          "name": "Fletching",
-          "level": 99,
-          "xp": 14239533
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 13445656
-        },
-        {
-          "name": "Firemaking",
-          "level": 99,
-          "xp": 13054366
-        },
-        {
-          "name": "Crafting",
-          "level": 99,
-          "xp": 13175664
-        },
-        {
-          "name": "Smithing",
-          "level": 105,
-          "xp": 24984219
-        },
-        {
-          "name": "Mining",
-          "level": 108,
-          "xp": 34981040
-        },
-        {
-          "name": "Herblore",
-          "level": 99,
-          "xp": 13128138
-        },
-        {
-          "name": "Agility",
-          "level": 79,
-          "xp": 1917832
-        },
-        {
-          "name": "Thieving",
-          "level": 99,
-          "xp": 13088135
-        },
-        {
-          "name": "Slayer",
-          "level": 112,
-          "xp": 47516100
-        },
-        {
-          "name": "Farming",
-          "level": 120,
-          "xp": 104293612
-        },
-        {
-          "name": "Runecrafting",
-          "level": 101,
-          "xp": 16057822
-        },
-        {
-          "name": "Hunter",
-          "level": 99,
-          "xp": 13054097
-        },
-        {
-          "name": "Construction",
-          "level": 99,
-          "xp": 13444264
-        },
-        {
-          "name": "Summoning",
-          "level": 73,
-          "xp": 1075863
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 84,
-          "xp": 3208613
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 13246976
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 106,
-          "xp": 27096125
-        },
-        {
-          "name": "Necromancy",
-          "level": 92,
-          "xp": 7092830
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-08T19:21:52.887Z"
-    },
-    {
-      "name": "AdziiMate",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/AdziiMate",
-      "total_level": 1872,
-      "total_xp": 36963286,
-      "league_points": 9210,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 81,
-          "xp": 2302741
-        },
-        {
-          "name": "Defence",
-          "level": 81,
-          "xp": 2381379
-        },
-        {
-          "name": "Strength",
-          "level": 91,
-          "xp": 6259042
-        },
-        {
-          "name": "Constitution",
-          "level": 84,
-          "xp": 3230485
-        },
-        {
-          "name": "Ranged",
-          "level": 44,
-          "xp": 58091
-        },
-        {
-          "name": "Prayer",
-          "level": 73,
-          "xp": 1058099
-        },
-        {
-          "name": "Magic",
-          "level": 66,
-          "xp": 499032
-        },
-        {
-          "name": "Cooking",
-          "level": 68,
-          "xp": 615488
-        },
-        {
-          "name": "Woodcutting",
-          "level": 51,
-          "xp": 119800
-        },
-        {
-          "name": "Fletching",
-          "level": 51,
-          "xp": 117784
-        },
-        {
-          "name": "Fishing",
-          "level": 69,
-          "xp": 684925
-        },
-        {
-          "name": "Firemaking",
-          "level": 51,
-          "xp": 120540
-        },
-        {
-          "name": "Crafting",
-          "level": 72,
-          "xp": 903026
-        },
-        {
-          "name": "Smithing",
-          "level": 77,
-          "xp": 1618468
-        },
-        {
-          "name": "Mining",
-          "level": 86,
-          "xp": 3751085
-        },
-        {
-          "name": "Herblore",
-          "level": 66,
-          "xp": 503893
-        },
-        {
-          "name": "Agility",
-          "level": 67,
-          "xp": 563214
-        },
-        {
-          "name": "Thieving",
-          "level": 61,
-          "xp": 320967
-        },
-        {
-          "name": "Slayer",
-          "level": 75,
-          "xp": 1327377
-        },
-        {
-          "name": "Farming",
-          "level": 92,
-          "xp": 7097557
-        },
-        {
-          "name": "Runecrafting",
-          "level": 50,
-          "xp": 104611
-        },
-        {
-          "name": "Hunter",
-          "level": 44,
-          "xp": 60511
-        },
-        {
-          "name": "Construction",
-          "level": 75,
-          "xp": 1243291
-        },
-        {
-          "name": "Summoning",
-          "level": 48,
-          "xp": 89688
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 57,
-          "xp": 221811
-        },
-        {
-          "name": "Divination",
-          "level": 74,
-          "xp": 1113726
-        },
-        {
-          "name": "Invention",
-          "level": 1,
-          "xp": 0
-        },
-        {
-          "name": "Archaeology",
-          "level": 64,
-          "xp": 446784
-        },
-        {
-          "name": "Necromancy",
-          "level": 53,
-          "xp": 149871
-        }
-      ],
-      "poll_rank": "adamant",
-      "poll_updated_at": "2026-08-08T02:39:03.843Z"
-    },
-    {
-      "name": "Aquamervine",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Aquamervine",
-      "total_level": 2989,
-      "total_xp": 1116461635,
-      "league_points": 39300,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 115,
-          "xp": 65642492
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 65688118
-        },
-        {
-          "name": "Strength",
-          "level": 115,
-          "xp": 65942652
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 70081487
-        },
-        {
-          "name": "Ranged",
-          "level": 99,
-          "xp": 13124335
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 22714788
-        },
-        {
-          "name": "Magic",
-          "level": 99,
-          "xp": 13204079
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 13164544
-        },
-        {
-          "name": "Woodcutting",
-          "level": 102,
-          "xp": 18407548
-        },
-        {
-          "name": "Fletching",
-          "level": 110,
-          "xp": 59365549
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 17406421
-        },
-        {
-          "name": "Firemaking",
-          "level": 103,
-          "xp": 19952833
-        },
-        {
-          "name": "Crafting",
-          "level": 99,
-          "xp": 13075894
-        },
-        {
-          "name": "Smithing",
-          "level": 102,
-          "xp": 19288034
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 41153378
-        },
-        {
-          "name": "Herblore",
-          "level": 103,
-          "xp": 20369969
-        },
-        {
-          "name": "Agility",
-          "level": 90,
-          "xp": 5669005
-        },
-        {
-          "name": "Thieving",
-          "level": 100,
-          "xp": 14823247
-        },
-        {
-          "name": "Slayer",
-          "level": 120,
-          "xp": 121665191
-        },
-        {
-          "name": "Farming",
-          "level": 116,
-          "xp": 72006970
-        },
-        {
-          "name": "Runecrafting",
-          "level": 101,
-          "xp": 16038582
-        },
-        {
-          "name": "Hunter",
-          "level": 99,
-          "xp": 13337318
-        },
-        {
-          "name": "Construction",
-          "level": 97,
-          "xp": 11738855
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 13211941
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 90,
-          "xp": 5504022
-        },
-        {
-          "name": "Divination",
-          "level": 87,
-          "xp": 4369065
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 117,
-          "xp": 83426020
-        },
-        {
-          "name": "Necromancy",
-          "level": 101,
-          "xp": 16089298
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-09T21:38:42.210Z"
-    },
-    {
-      "name": "Awes0meGod",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Awes0meGod",
-      "total_level": 3126,
-      "total_xp": 1627181171,
-      "league_points": 60000,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 120,
-          "xp": 104292103
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 105500919
-        },
-        {
-          "name": "Strength",
-          "level": 120,
-          "xp": 105291615
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 128503565
-        },
-        {
-          "name": "Ranged",
-          "level": 107,
-          "xp": 30683688
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 29117733
-        },
-        {
-          "name": "Magic",
-          "level": 111,
-          "xp": 45557475
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 14144730
-        },
-        {
-          "name": "Woodcutting",
-          "level": 105,
-          "xp": 24599012
-        },
-        {
-          "name": "Fletching",
-          "level": 103,
-          "xp": 20651395
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 18715307
-        },
-        {
-          "name": "Firemaking",
-          "level": 106,
-          "xp": 27249803
-        },
-        {
-          "name": "Crafting",
-          "level": 109,
-          "xp": 35429238
-        },
-        {
-          "name": "Smithing",
-          "level": 102,
-          "xp": 17911674
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 38927613
-        },
-        {
-          "name": "Herblore",
-          "level": 114,
-          "xp": 59788126
-        },
-        {
-          "name": "Agility",
-          "level": 99,
-          "xp": 18697549
-        },
-        {
-          "name": "Thieving",
-          "level": 108,
-          "xp": 33382705
-        },
-        {
-          "name": "Slayer",
-          "level": 119,
-          "xp": 94725013
-        },
-        {
-          "name": "Farming",
-          "level": 120,
-          "xp": 139322509
-        },
-        {
-          "name": "Runecrafting",
-          "level": 103,
-          "xp": 19702962
-        },
-        {
-          "name": "Hunter",
-          "level": 107,
-          "xp": 29455291
-        },
-        {
-          "name": "Construction",
-          "level": 102,
-          "xp": 18383018
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 14802200
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 110,
-          "xp": 40787461
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 15868178
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 120,
-          "xp": 105347015
-        },
-        {
-          "name": "Necromancy",
-          "level": 118,
-          "xp": 90343274
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-08T07:09:58.801Z"
-    },
-    {
-      "name": "Bokchoiii",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Bokchoiii",
-      "total_level": 3074,
-      "total_xp": 1680233520,
-      "league_points": 60070,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 119,
-          "xp": 101489921
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 102014706
-        },
-        {
-          "name": "Strength",
-          "level": 119,
-          "xp": 101896939
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 103218891
-        },
-        {
-          "name": "Ranged",
-          "level": 99,
-          "xp": 13338250
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 50406664
-        },
-        {
-          "name": "Magic",
-          "level": 99,
-          "xp": 13491823
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 21147895
-        },
-        {
-          "name": "Woodcutting",
-          "level": 107,
-          "xp": 30506235
-        },
-        {
-          "name": "Fletching",
-          "level": 110,
-          "xp": 52089421
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 19995614
-        },
-        {
-          "name": "Firemaking",
-          "level": 103,
-          "xp": 20985559
-        },
-        {
-          "name": "Crafting",
-          "level": 101,
-          "xp": 17215590
-        },
-        {
-          "name": "Smithing",
-          "level": 110,
-          "xp": 56864096
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 64789258
-        },
-        {
-          "name": "Herblore",
-          "level": 117,
-          "xp": 84752182
-        },
-        {
-          "name": "Agility",
-          "level": 99,
-          "xp": 13161571
-        },
-        {
-          "name": "Thieving",
-          "level": 99,
-          "xp": 13131179
-        },
-        {
-          "name": "Slayer",
-          "level": 117,
-          "xp": 79497741
-        },
-        {
-          "name": "Farming",
-          "level": 120,
-          "xp": 189274652
-        },
-        {
-          "name": "Runecrafting",
-          "level": 103,
-          "xp": 19585497
-        },
-        {
-          "name": "Hunter",
-          "level": 103,
-          "xp": 19475508
-        },
-        {
-          "name": "Construction",
-          "level": 107,
-          "xp": 30137390
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 15170167
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 100,
-          "xp": 14976493
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 18503560
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Necromancy",
-          "level": 99,
-          "xp": 13116718
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-09T17:19:46.428Z"
-    },
-    {
-      "name": "Booyaka_blah",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Booyaka_blah",
-      "total_level": 3045,
-      "total_xp": 1512293002,
-      "league_points": 63560,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 120,
-          "xp": 133183073
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 134137949
-        },
-        {
-          "name": "Strength",
-          "level": 120,
-          "xp": 134071581
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 154545438
-        },
-        {
-          "name": "Ranged",
-          "level": 100,
-          "xp": 15441015
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 16357715
-        },
-        {
-          "name": "Magic",
-          "level": 103,
-          "xp": 20103659
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 13075048
-        },
-        {
-          "name": "Woodcutting",
-          "level": 103,
-          "xp": 19489657
-        },
-        {
-          "name": "Fletching",
-          "level": 101,
-          "xp": 17409845
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 13042960
-        },
-        {
-          "name": "Firemaking",
-          "level": 102,
-          "xp": 18597990
-        },
-        {
-          "name": "Crafting",
-          "level": 100,
-          "xp": 14440429
-        },
-        {
-          "name": "Smithing",
-          "level": 101,
-          "xp": 15912409
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 52174913
-        },
-        {
-          "name": "Herblore",
-          "level": 103,
-          "xp": 19525889
-        },
-        {
-          "name": "Agility",
-          "level": 99,
-          "xp": 13742964
-        },
-        {
-          "name": "Thieving",
-          "level": 99,
-          "xp": 13556854
-        },
-        {
-          "name": "Slayer",
-          "level": 117,
-          "xp": 78493442
-        },
-        {
-          "name": "Farming",
-          "level": 113,
-          "xp": 57168860
-        },
-        {
-          "name": "Runecrafting",
-          "level": 101,
-          "xp": 17315764
-        },
-        {
-          "name": "Hunter",
-          "level": 100,
-          "xp": 15502058
-        },
-        {
-          "name": "Construction",
-          "level": 100,
-          "xp": 15451498
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 13665324
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 100,
-          "xp": 15682485
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 13390226
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 120,
-          "xp": 109388608
-        },
-        {
-          "name": "Necromancy",
-          "level": 120,
-          "xp": 157425349
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-10T00:49:51.591Z"
-    },
-    {
-      "name": "Cailicat",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Cailicat",
-      "total_level": 1596,
-      "total_xp": 30160418,
-      "league_points": 7870,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 53,
-          "xp": 144153
-        },
-        {
-          "name": "Defence",
-          "level": 75,
-          "xp": 1225422
-        },
-        {
-          "name": "Strength",
-          "level": 53,
-          "xp": 144153
-        },
-        {
-          "name": "Constitution",
-          "level": 85,
-          "xp": 3464464
-        },
-        {
-          "name": "Ranged",
-          "level": 43,
-          "xp": 53532
-        },
-        {
-          "name": "Prayer",
-          "level": 61,
-          "xp": 325621
-        },
-        {
-          "name": "Magic",
-          "level": 50,
-          "xp": 104097
-        },
-        {
-          "name": "Cooking",
-          "level": 54,
-          "xp": 157799
-        },
-        {
-          "name": "Woodcutting",
-          "level": 64,
-          "xp": 424349
-        },
-        {
-          "name": "Fletching",
-          "level": 26,
-          "xp": 8824
-        },
-        {
-          "name": "Fishing",
-          "level": 53,
-          "xp": 136716
-        },
-        {
-          "name": "Firemaking",
-          "level": 64,
-          "xp": 433617
-        },
-        {
-          "name": "Crafting",
-          "level": 80,
-          "xp": 2025941
-        },
-        {
-          "name": "Smithing",
-          "level": 83,
-          "xp": 2767770
-        },
-        {
-          "name": "Mining",
-          "level": 91,
-          "xp": 6184790
-        },
-        {
-          "name": "Herblore",
-          "level": 32,
-          "xp": 17725
-        },
-        {
-          "name": "Agility",
-          "level": 34,
-          "xp": 21696
-        },
-        {
-          "name": "Thieving",
-          "level": 48,
-          "xp": 87535
-        },
-        {
-          "name": "Slayer",
-          "level": 65,
-          "xp": 458172
-        },
-        {
-          "name": "Farming",
-          "level": 72,
-          "xp": 966664
-        },
-        {
-          "name": "Runecrafting",
-          "level": 40,
-          "xp": 39615
-        },
-        {
-          "name": "Hunter",
-          "level": 40,
-          "xp": 38274
-        },
-        {
-          "name": "Construction",
-          "level": 65,
-          "xp": 466429
-        },
-        {
-          "name": "Summoning",
-          "level": 46,
-          "xp": 71822
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 20,
-          "xp": 4939
-        },
-        {
-          "name": "Divination",
-          "level": 56,
-          "xp": 192070
-        },
-        {
-          "name": "Invention",
-          "level": 1,
-          "xp": 0
-        },
-        {
-          "name": "Archaeology",
-          "level": 46,
-          "xp": 70886
-        },
-        {
-          "name": "Necromancy",
-          "level": 96,
-          "xp": 10123343
-        }
-      ],
-      "poll_rank": "adamant",
-      "poll_updated_at": "2026-08-09T16:10:29.465Z"
-    },
-    {
-      "name": "ErebusServus",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/ErebusServus",
-      "total_level": 2976,
-      "total_xp": 916321994,
-      "league_points": 60020,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 99,
-          "xp": 13451452
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 52849176
-        },
-        {
-          "name": "Strength",
-          "level": 99,
-          "xp": 14048131
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 59535605
-        },
-        {
-          "name": "Ranged",
-          "level": 99,
-          "xp": 13124298
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 16066231
-        },
-        {
-          "name": "Magic",
-          "level": 100,
-          "xp": 15024007
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 14643350
-        },
-        {
-          "name": "Woodcutting",
-          "level": 101,
-          "xp": 17032934
-        },
-        {
-          "name": "Fletching",
-          "level": 101,
-          "xp": 15992838
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 13187184
-        },
-        {
-          "name": "Firemaking",
-          "level": 100,
-          "xp": 15666582
-        },
-        {
-          "name": "Crafting",
-          "level": 99,
-          "xp": 14354622
-        },
-        {
-          "name": "Smithing",
-          "level": 110,
-          "xp": 38836282
-        },
-        {
-          "name": "Mining",
-          "level": 109,
-          "xp": 35895289
-        },
-        {
-          "name": "Herblore",
-          "level": 106,
-          "xp": 27580966
-        },
-        {
-          "name": "Agility",
-          "level": 99,
-          "xp": 15015196
-        },
-        {
-          "name": "Thieving",
-          "level": 99,
-          "xp": 13650490
-        },
-        {
-          "name": "Slayer",
-          "level": 108,
-          "xp": 34560542
-        },
-        {
-          "name": "Farming",
-          "level": 112,
-          "xp": 51934249
-        },
-        {
-          "name": "Runecrafting",
-          "level": 100,
-          "xp": 15589449
-        },
-        {
-          "name": "Hunter",
-          "level": 102,
-          "xp": 17545104
-        },
-        {
-          "name": "Construction",
-          "level": 99,
-          "xp": 13299854
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 13575169
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 100,
-          "xp": 15579411
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 18511867
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 101,
-          "xp": 17521718
-        },
-        {
-          "name": "Necromancy",
-          "level": 120,
-          "xp": 112249998
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-09T09:41:25.136Z"
-    },
-    {
-      "name": "Farwger",
+      "name": "Leagues 2 Equilibrium",
       "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Farwger",
-      "total_level": 3063,
-      "total_xp": 1582003754,
-      "league_points": 62290,
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 99,
-          "xp": 13897141
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 55481123
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 99,
-          "xp": 13379218
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 88086388
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 99,
-          "xp": 14345902
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 15857215
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 101,
-          "xp": 16843569
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 99,
-          "xp": 13041042
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 101,
-          "xp": 17168141
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 110,
-          "xp": 50003208
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 99,
-          "xp": 50005324
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 99,
-          "xp": 13432292
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 110,
-          "xp": 50138145
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 110,
-          "xp": 50002544
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 50033995
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 120,
-          "xp": 131982614
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 99,
-          "xp": 13092244
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 99,
-          "xp": 13269989
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 120,
-          "xp": 105230781
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 120,
-          "xp": 192214290
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 103,
-          "xp": 19493875
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 105,
-          "xp": 25617053
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 105,
-          "xp": 24128157
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 13522080
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 102,
-          "xp": 17706170
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 99,
-          "xp": 18383879
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 119,
-          "xp": 95647375
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-07T23:06:17.273Z"
     },
     {
-      "name": "G3MKRAFT3R",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/G3MKRAFT3R",
-      "total_level": 1722,
-      "total_xp": 35942861,
-      "league_points": 10150,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/fieryaleeco",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 89,
-          "xp": 4927846
-        },
-        {
-          "name": "Defence",
-          "level": 89,
-          "xp": 5092762
-        },
-        {
-          "name": "Strength",
-          "level": 89,
-          "xp": 5253058
-        },
-        {
-          "name": "Constitution",
-          "level": 89,
-          "xp": 4961587
-        },
-        {
-          "name": "Ranged",
-          "level": 33,
-          "xp": 18949
-        },
-        {
-          "name": "Prayer",
-          "level": 67,
-          "xp": 578741
-        },
-        {
-          "name": "Magic",
-          "level": 51,
-          "xp": 114749
-        },
-        {
-          "name": "Cooking",
-          "level": 55,
-          "xp": 170258
-        },
-        {
-          "name": "Woodcutting",
-          "level": 56,
-          "xp": 186155
-        },
-        {
-          "name": "Fletching",
-          "level": 42,
-          "xp": 46123
-        },
-        {
-          "name": "Fishing",
-          "level": 65,
-          "xp": 481247
-        },
-        {
-          "name": "Firemaking",
-          "level": 49,
-          "xp": 93700
-        },
-        {
-          "name": "Crafting",
-          "level": 59,
-          "xp": 270647
-        },
-        {
-          "name": "Smithing",
-          "level": 83,
-          "xp": 2707358
-        },
-        {
-          "name": "Mining",
-          "level": 88,
-          "xp": 4779537
-        },
-        {
-          "name": "Herblore",
-          "level": 57,
-          "xp": 218377
-        },
-        {
-          "name": "Agility",
-          "level": 70,
-          "xp": 738292
-        },
-        {
-          "name": "Thieving",
-          "level": 56,
-          "xp": 192520
-        },
-        {
-          "name": "Slayer",
-          "level": 80,
-          "xp": 2100580
-        },
-        {
-          "name": "Farming",
-          "level": 59,
-          "xp": 271615
-        },
-        {
-          "name": "Runecrafting",
-          "level": 53,
-          "xp": 137417
-        },
-        {
-          "name": "Hunter",
-          "level": 43,
-          "xp": 50786
-        },
-        {
-          "name": "Construction",
-          "level": 56,
-          "xp": 193454
-        },
-        {
-          "name": "Summoning",
-          "level": 25,
-          "xp": 7992
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 40,
-          "xp": 38464
-        },
-        {
-          "name": "Divination",
-          "level": 80,
-          "xp": 2120517
-        },
-        {
-          "name": "Invention",
           "level": 1,
           "xp": 0
         },
         {
-          "name": "Archaeology",
-          "level": 50,
-          "xp": 102273
-        },
-        {
-          "name": "Necromancy",
-          "level": 48,
-          "xp": 87857
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-09T08:28:13.235Z"
-    },
-    {
-      "name": "Gudrus",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Gudrus",
-      "total_level": 2927,
-      "total_xp": 809221779,
-      "league_points": 45000,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 103,
-          "xp": 20403634
-        },
-        {
           "name": "Defence",
-          "level": 99,
-          "xp": 22274555
-        },
-        {
-          "name": "Strength",
-          "level": 112,
-          "xp": 50300324
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 40908394
-        },
-        {
-          "name": "Ranged",
-          "level": 99,
-          "xp": 13597402
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 14117905
-        },
-        {
-          "name": "Magic",
-          "level": 100,
-          "xp": 14400222
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 13051027
-        },
-        {
-          "name": "Woodcutting",
-          "level": 107,
-          "xp": 29345786
-        },
-        {
-          "name": "Fletching",
-          "level": 101,
-          "xp": 16562335
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 13040971
-        },
-        {
-          "name": "Firemaking",
-          "level": 99,
-          "xp": 14228282
-        },
-        {
-          "name": "Crafting",
-          "level": 100,
-          "xp": 15527157
-        },
-        {
-          "name": "Smithing",
-          "level": 104,
-          "xp": 21977684
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 38746463
-        },
-        {
-          "name": "Herblore",
-          "level": 100,
-          "xp": 15178396
-        },
-        {
-          "name": "Agility",
-          "level": 81,
-          "xp": 2402262
-        },
-        {
-          "name": "Thieving",
-          "level": 99,
-          "xp": 13258623
-        },
-        {
-          "name": "Slayer",
-          "level": 107,
-          "xp": 30306626
-        },
-        {
-          "name": "Farming",
-          "level": 114,
-          "xp": 58635919
-        },
-        {
-          "name": "Runecrafting",
-          "level": 104,
-          "xp": 21593110
-        },
-        {
-          "name": "Hunter",
-          "level": 86,
-          "xp": 3695952
-        },
-        {
-          "name": "Construction",
-          "level": 101,
-          "xp": 17117446
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 13577674
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 81,
-          "xp": 2297617
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 27860883
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 114,
-          "xp": 57679970
-        },
-        {
-          "name": "Necromancy",
-          "level": 92,
-          "xp": 7135160
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-08T18:21:58.960Z"
-    },
-    {
-      "name": "H_Typhoon",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/H_Typhoon",
-      "total_level": 2228,
-      "total_xp": 357651035,
-      "league_points": 22660,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 102,
-          "xp": 18991457
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 13069277
-        },
-        {
-          "name": "Strength",
-          "level": 99,
-          "xp": 13215634
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 15486702
-        },
-        {
-          "name": "Ranged",
-          "level": 55,
-          "xp": 179884
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 13098479
-        },
-        {
-          "name": "Magic",
-          "level": 88,
-          "xp": 4596730
-        },
-        {
-          "name": "Cooking",
-          "level": 68,
-          "xp": 633675
-        },
-        {
-          "name": "Woodcutting",
-          "level": 70,
-          "xp": 742242
-        },
-        {
-          "name": "Fletching",
-          "level": 77,
-          "xp": 1621019
-        },
-        {
-          "name": "Fishing",
-          "level": 72,
-          "xp": 935462
-        },
-        {
-          "name": "Firemaking",
-          "level": 72,
-          "xp": 944581
-        },
-        {
-          "name": "Crafting",
-          "level": 99,
-          "xp": 13036776
-        },
-        {
-          "name": "Smithing",
-          "level": 105,
-          "xp": 24929608
-        },
-        {
-          "name": "Mining",
-          "level": 105,
-          "xp": 25573414
-        },
-        {
-          "name": "Herblore",
-          "level": 56,
-          "xp": 190574
-        },
-        {
-          "name": "Agility",
-          "level": 72,
-          "xp": 945340
-        },
-        {
-          "name": "Thieving",
-          "level": 57,
-          "xp": 211584
-        },
-        {
-          "name": "Slayer",
-          "level": 79,
-          "xp": 1818491
-        },
-        {
-          "name": "Farming",
-          "level": 85,
-          "xp": 3539338
-        },
-        {
-          "name": "Runecrafting",
-          "level": 56,
-          "xp": 202352
-        },
-        {
-          "name": "Hunter",
-          "level": 43,
-          "xp": 52054
-        },
-        {
-          "name": "Construction",
-          "level": 73,
-          "xp": 1031352
-        },
-        {
-          "name": "Summoning",
-          "level": 54,
-          "xp": 152448
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 54,
-          "xp": 165693
-        },
-        {
-          "name": "Divination",
-          "level": 80,
-          "xp": 2154734
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 42,
-          "xp": 48684
-        },
-        {
-          "name": "Necromancy",
-          "level": 48,
-          "xp": 83451
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-07T20:24:32.311Z"
-    },
-    {
-      "name": "Hurvardetnu",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Hurvardetnu",
-      "total_level": 1114,
-      "total_xp": 25249208,
-      "league_points": 6720,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 13,
-          "xp": 1900
-        },
-        {
-          "name": "Defence",
-          "level": 60,
-          "xp": 277256
-        },
-        {
-          "name": "Strength",
-          "level": 13,
-          "xp": 1900
-        },
-        {
-          "name": "Constitution",
-          "level": 57,
-          "xp": 211206
-        },
-        {
-          "name": "Ranged",
-          "level": 60,
-          "xp": 279198
-        },
-        {
-          "name": "Prayer",
-          "level": 44,
-          "xp": 60245
-        },
-        {
-          "name": "Magic",
-          "level": 38,
-          "xp": 32338
-        },
-        {
-          "name": "Cooking",
-          "level": 85,
-          "xp": 3269212
-        },
-        {
-          "name": "Woodcutting",
-          "level": 19,
-          "xp": 4425
-        },
-        {
-          "name": "Fletching",
-          "level": 32,
-          "xp": 17170
-        },
-        {
-          "name": "Fishing",
-          "level": 79,
-          "xp": 1982251
-        },
-        {
-          "name": "Firemaking",
-          "level": 16,
-          "xp": 2911
-        },
-        {
-          "name": "Crafting",
-          "level": 31,
-          "xp": 15751
-        },
-        {
-          "name": "Smithing",
-          "level": 17,
-          "xp": 3343
-        },
-        {
-          "name": "Mining",
-          "level": 33,
-          "xp": 18427
-        },
-        {
-          "name": "Herblore",
-          "level": 34,
-          "xp": 22176
-        },
-        {
-          "name": "Agility",
-          "level": 35,
-          "xp": 23658
-        },
-        {
-          "name": "Thieving",
-          "level": 102,
-          "xp": 18054015
-        },
-        {
-          "name": "Slayer",
-          "level": 48,
-          "xp": 88240
-        },
-        {
-          "name": "Farming",
-          "level": 57,
-          "xp": 210772
-        },
-        {
-          "name": "Runecrafting",
-          "level": 53,
-          "xp": 150316
-        },
-        {
-          "name": "Hunter",
-          "level": 33,
-          "xp": 18886
-        },
-        {
-          "name": "Construction",
-          "level": 65,
-          "xp": 467229
-        },
-        {
-          "name": "Summoning",
           "level": 1,
-          "xp": 28
+          "xp": 0
         },
         {
-          "name": "Dungeoneering",
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
           "level": 10,
-          "xp": 1193
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 30,
-          "xp": 13443
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
@@ -2167,200 +507,356 @@
         },
         {
           "name": "Archaeology",
-          "level": 33,
-          "xp": 19235
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 15,
-          "xp": 2484
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-10T06:29:17.327Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Hurvardetnu",
+      "total_level": 45,
+      "total_xp": 2096,
+      "league_points": 40,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 8,
+          "xp": 942
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-08T08:40:29.883Z"
     },
     {
-      "name": "IAmBoosh",
+      "name": "Leagues 2 Equilibrium",
       "profile_url": "https://rs.runescape.com/hiscores/leagues/player/IAmBoosh",
-      "total_level": 2844,
-      "total_xp": 837112785,
-      "league_points": 33640,
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 86,
-          "xp": 3818446
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 50051719
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 84,
-          "xp": 3204670
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 43363448
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 87,
-          "xp": 4366260
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 13550972
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 95,
-          "xp": 9620357
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 91,
-          "xp": 6159354
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 86,
-          "xp": 3966978
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 110,
-          "xp": 58934112
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 90,
-          "xp": 5410323
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 99,
-          "xp": 13888454
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 99,
-          "xp": 13631787
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 110,
-          "xp": 50143375
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 40157826
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 92,
-          "xp": 6827186
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 86,
-          "xp": 3968835
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 99,
-          "xp": 13579395
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 107,
-          "xp": 29245666
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 117,
-          "xp": 78277753
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 100,
-          "xp": 14923612
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 90,
-          "xp": 5869066
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 90,
-          "xp": 5351022
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 86,
-          "xp": 3663346
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 89,
-          "xp": 5004568
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 98,
-          "xp": 12072996
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 106,
-          "xp": 26416964
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 120,
-          "xp": 111644295
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-08T03:44:59.749Z"
     },
     {
-      "name": "Juumm",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Juumm",
-      "total_level": 416,
-      "total_xp": 5536386,
-      "league_points": 1740,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Inferno%20Bren",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
           "level": 1,
-          "xp": 82
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 4,
-          "xp": 359
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
           "level": 1,
-          "xp": 82
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 11,
-          "xp": 1445
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
@@ -2370,22 +866,22 @@
         {
           "name": "Prayer",
           "level": 1,
-          "xp": 54
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 4,
-          "xp": 359
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 10,
-          "xp": 1188
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 5,
-          "xp": 400
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
@@ -2394,13 +890,13 @@
         },
         {
           "name": "Fishing",
-          "level": 6,
-          "xp": 600
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 5,
-          "xp": 480
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
@@ -2409,13 +905,13 @@
         },
         {
           "name": "Smithing",
-          "level": 52,
-          "xp": 130827
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 74,
-          "xp": 1155975
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
@@ -2424,13 +920,13 @@
         },
         {
           "name": "Agility",
-          "level": 85,
-          "xp": 3452061
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 26,
-          "xp": 9648
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
@@ -2449,8 +945,8 @@
         },
         {
           "name": "Hunter",
-          "level": 9,
-          "xp": 1140
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
@@ -2469,8 +965,8 @@
         },
         {
           "name": "Divination",
-          "level": 40,
-          "xp": 39355
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
@@ -2479,8 +975,8 @@
         },
         {
           "name": "Archaeology",
-          "level": 70,
-          "xp": 742331
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
@@ -2489,300 +985,300 @@
         }
       ],
       "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-07T20:29:27.240Z"
+      "poll_updated_at": "2026-08-09T04:07:09.671Z"
     },
     {
-      "name": "leaguescoin",
+      "name": "Leagues 2 Equilibrium",
       "profile_url": "https://rs.runescape.com/hiscores/leagues/player/leaguescoin",
-      "total_level": 3004,
-      "total_xp": 1102238573,
-      "league_points": 45040,
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 99,
-          "xp": 13427370
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 120342455
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 99,
-          "xp": 13783441
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 95385396
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 120,
-          "xp": 120339003
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 15365065
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 102,
-          "xp": 19288743
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 99,
-          "xp": 13050356
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 101,
-          "xp": 16638810
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 110,
-          "xp": 50005650
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 99,
-          "xp": 17062090
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 102,
-          "xp": 17988114
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 102,
-          "xp": 18701455
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 101,
-          "xp": 16226648
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 41027462
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 107,
-          "xp": 31365790
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 99,
-          "xp": 13350425
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 99,
-          "xp": 13587483
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 114,
-          "xp": 60231877
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 108,
-          "xp": 32371186
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 103,
-          "xp": 20325467
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 99,
-          "xp": 13714685
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 99,
-          "xp": 14104692
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 13762981
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 101,
-          "xp": 17396983
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 99,
-          "xp": 13098999
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 110,
-          "xp": 41903859
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 106,
-          "xp": 28392088
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-09T14:49:09.841Z"
     },
     {
-      "name": "misterdonut7",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/misterdonut7",
-      "total_level": 1872,
-      "total_xp": 98182779,
-      "league_points": 14330,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Mage%20Orc%2069",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 101,
-          "xp": 16516659
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 16271322
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 101,
-          "xp": 16267685
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 16169618
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 51,
-          "xp": 113474
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 82,
-          "xp": 2643149
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 59,
-          "xp": 270723
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 37,
-          "xp": 28022
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 64,
-          "xp": 420383
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 39,
-          "xp": 36692
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 52,
-          "xp": 124512
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 63,
-          "xp": 378611
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 80,
-          "xp": 1986260
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 91,
-          "xp": 5928870
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 94,
-          "xp": 8551022
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 55,
-          "xp": 180081
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 61,
-          "xp": 307578
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 63,
-          "xp": 389118
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 83,
-          "xp": 2823284
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 91,
-          "xp": 6257946
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 48,
-          "xp": 87351
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 49,
-          "xp": 96678
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 66,
-          "xp": 506636
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 32,
-          "xp": 17838
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 45,
-          "xp": 66782
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 76,
-          "xp": 1465121
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
@@ -2791,320 +1287,1100 @@
         },
         {
           "name": "Archaeology",
-          "level": 59,
-          "xp": 262025
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 31,
-          "xp": 15339
+          "level": 1,
+          "xp": 0
         }
       ],
-      "poll_rank": "rune",
-      "poll_updated_at": "2026-08-09T09:03:38.719Z"
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-07T20:39:07.377Z"
     },
     {
-      "name": "Novashield",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Novashield",
-      "total_level": 2711,
-      "total_xp": 679647867,
-      "league_points": 29480,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Mathemagicks",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 113,
-          "xp": 54067313
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 54550484
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 113,
-          "xp": 54038363
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 55868754
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 81,
-          "xp": 2250058
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 18394014
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 97,
-          "xp": 11242511
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 79,
-          "xp": 1882990
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 81,
-          "xp": 2332007
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 83,
-          "xp": 2868879
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 79,
-          "xp": 1881686
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 85,
-          "xp": 3337467
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 108,
-          "xp": 32116143
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 94,
-          "xp": 8458247
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 102,
-          "xp": 17928487
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 97,
-          "xp": 11272980
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 83,
-          "xp": 2810821
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 79,
-          "xp": 1890750
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 108,
-          "xp": 34622531
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 114,
-          "xp": 58749687
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 83,
-          "xp": 2927381
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 82,
-          "xp": 2431936
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 79,
-          "xp": 1928994
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 14057429
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 87,
-          "xp": 4004663
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 87,
-          "xp": 4006015
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 102,
-          "xp": 17855435
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 79,
-          "xp": 1871842
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-10T07:03:24.581Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Mystic%20Manor",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "rune",
+      "poll_updated_at": "2026-08-10T00:10:13.816Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Novashield",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "rune",
       "poll_updated_at": "2026-08-08T23:59:02.758Z"
     },
     {
-      "name": "OneIceburg",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/OneIceburg",
-      "total_level": 2381,
-      "total_xp": 584739501,
-      "league_points": 22280,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/OG%20Vis",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 112,
-          "xp": 50549646
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 51746421
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 115,
-          "xp": 68483907
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 46022456
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 87,
-          "xp": 4311433
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 16026687
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 101,
-          "xp": 16607005
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 20,
-          "xp": 4548
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 51,
-          "xp": 115050
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 99,
-          "xp": 13151145
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 76,
-          "xp": 1401600
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 64,
-          "xp": 417003
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 99,
-          "xp": 13652301
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 103,
-          "xp": 20084701
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 101,
-          "xp": 16279107
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 85,
-          "xp": 3340854
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 85,
-          "xp": 3552494
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 120,
-          "xp": 114622772
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 94,
-          "xp": 8633050
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 106,
-          "xp": 27708418
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 58,
-          "xp": 225641
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 42,
-          "xp": 45960
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 38,
-          "xp": 30620
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 13669832
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 75,
-          "xp": 1249729
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 83,
-          "xp": 2706473
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 89997605
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 50,
-          "xp": 103043
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "adamant",
+      "poll_updated_at": "2026-08-08T13:09:06.968Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Plertz",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-09T06:27:54.729Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Pyrrhonius",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-08T19:21:07.382Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/revival21",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
@@ -3113,1879 +2389,1567 @@
         }
       ],
       "poll_rank": "rune",
-      "poll_updated_at": "2026-08-07T20:18:08.143Z"
-    },
-    {
-      "name": "Plertz",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Plertz",
-      "total_level": 2450,
-      "total_xp": 1028760178,
-      "league_points": 26100,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 120,
-          "xp": 146729628
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 145923014
-        },
-        {
-          "name": "Strength",
-          "level": 120,
-          "xp": 145932755
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 145318541
-        },
-        {
-          "name": "Ranged",
-          "level": 49,
-          "xp": 91923
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 19219515
-        },
-        {
-          "name": "Magic",
-          "level": 91,
-          "xp": 6142023
-        },
-        {
-          "name": "Cooking",
-          "level": 52,
-          "xp": 134268
-        },
-        {
-          "name": "Woodcutting",
-          "level": 59,
-          "xp": 269765
-        },
-        {
-          "name": "Fletching",
-          "level": 50,
-          "xp": 101831
-        },
-        {
-          "name": "Fishing",
-          "level": 71,
-          "xp": 856464
-        },
-        {
-          "name": "Firemaking",
-          "level": 60,
-          "xp": 277319
-        },
-        {
-          "name": "Crafting",
-          "level": 99,
-          "xp": 13913404
-        },
-        {
-          "name": "Smithing",
-          "level": 100,
-          "xp": 15557544
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 41817893
-        },
-        {
-          "name": "Herblore",
-          "level": 53,
-          "xp": 149926
-        },
-        {
-          "name": "Agility",
-          "level": 71,
-          "xp": 864240
-        },
-        {
-          "name": "Thieving",
-          "level": 46,
-          "xp": 69076
-        },
-        {
-          "name": "Slayer",
-          "level": 115,
-          "xp": 68326767
-        },
-        {
-          "name": "Farming",
-          "level": 100,
-          "xp": 14745959
-        },
-        {
-          "name": "Runecrafting",
-          "level": 82,
-          "xp": 2449637
-        },
-        {
-          "name": "Hunter",
-          "level": 48,
-          "xp": 89751
-        },
-        {
-          "name": "Construction",
-          "level": 71,
-          "xp": 880225
-        },
-        {
-          "name": "Summoning",
-          "level": 93,
-          "xp": 7290988
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 108,
-          "xp": 34599990
-        },
-        {
-          "name": "Divination",
-          "level": 82,
-          "xp": 2460701
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 96,
-          "xp": 10247042
-        },
-        {
-          "name": "Necromancy",
-          "level": 87,
-          "xp": 4299989
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-09T06:27:54.729Z"
-    },
-    {
-      "name": "Pyr0mega",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Pyr0mega",
-      "total_level": 3045,
-      "total_xp": 1379807339,
-      "league_points": 64060,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 99,
-          "xp": 13800734
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 50018713
-        },
-        {
-          "name": "Strength",
-          "level": 99,
-          "xp": 13808868
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 88276990
-        },
-        {
-          "name": "Ranged",
-          "level": 100,
-          "xp": 14561144
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 51428126
-        },
-        {
-          "name": "Magic",
-          "level": 100,
-          "xp": 15745683
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 14871392
-        },
-        {
-          "name": "Woodcutting",
-          "level": 102,
-          "xp": 17736398
-        },
-        {
-          "name": "Fletching",
-          "level": 110,
-          "xp": 50006804
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 17702688
-        },
-        {
-          "name": "Firemaking",
-          "level": 107,
-          "xp": 29107180
-        },
-        {
-          "name": "Crafting",
-          "level": 110,
-          "xp": 50008367
-        },
-        {
-          "name": "Smithing",
-          "level": 110,
-          "xp": 41772019
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 50693560
-        },
-        {
-          "name": "Herblore",
-          "level": 112,
-          "xp": 50262249
-        },
-        {
-          "name": "Agility",
-          "level": 99,
-          "xp": 14226041
-        },
-        {
-          "name": "Thieving",
-          "level": 99,
-          "xp": 13515450
-        },
-        {
-          "name": "Slayer",
-          "level": 105,
-          "xp": 25550390
-        },
-        {
-          "name": "Farming",
-          "level": 120,
-          "xp": 122762722
-        },
-        {
-          "name": "Runecrafting",
-          "level": 104,
-          "xp": 22116641
-        },
-        {
-          "name": "Hunter",
-          "level": 101,
-          "xp": 16452894
-        },
-        {
-          "name": "Construction",
-          "level": 105,
-          "xp": 25091170
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 15123206
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 100,
-          "xp": 15007438
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 34942148
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 120,
-          "xp": 105218324
-        },
-        {
-          "name": "Necromancy",
-          "level": 120,
-          "xp": 200000000
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-07T18:09:21.310Z"
-    },
-    {
-      "name": "Pyrrhonius",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Pyrrhonius",
-      "total_level": 2637,
-      "total_xp": 534451291,
-      "league_points": 30070,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 100,
-          "xp": 14956671
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 14953773
-        },
-        {
-          "name": "Strength",
-          "level": 100,
-          "xp": 14981740
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 15131782
-        },
-        {
-          "name": "Ranged",
-          "level": 75,
-          "xp": 1265826
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 14560493
-        },
-        {
-          "name": "Magic",
-          "level": 82,
-          "xp": 2524252
-        },
-        {
-          "name": "Cooking",
-          "level": 77,
-          "xp": 1560552
-        },
-        {
-          "name": "Woodcutting",
-          "level": 103,
-          "xp": 20083341
-        },
-        {
-          "name": "Fletching",
-          "level": 108,
-          "xp": 32421491
-        },
-        {
-          "name": "Fishing",
-          "level": 71,
-          "xp": 850993
-        },
-        {
-          "name": "Firemaking",
-          "level": 91,
-          "xp": 6484375
-        },
-        {
-          "name": "Crafting",
-          "level": 100,
-          "xp": 14828148
-        },
-        {
-          "name": "Smithing",
-          "level": 108,
-          "xp": 33595312
-        },
-        {
-          "name": "Mining",
-          "level": 104,
-          "xp": 21699446
-        },
-        {
-          "name": "Herblore",
-          "level": 73,
-          "xp": 1095952
-        },
-        {
-          "name": "Agility",
-          "level": 99,
-          "xp": 50145681
-        },
-        {
-          "name": "Thieving",
-          "level": 99,
-          "xp": 14317017
-        },
-        {
-          "name": "Slayer",
-          "level": 99,
-          "xp": 13273110
-        },
-        {
-          "name": "Farming",
-          "level": 79,
-          "xp": 1966501
-        },
-        {
-          "name": "Runecrafting",
-          "level": 76,
-          "xp": 1360515
-        },
-        {
-          "name": "Hunter",
-          "level": 67,
-          "xp": 555045
-        },
-        {
-          "name": "Construction",
-          "level": 107,
-          "xp": 30035658
-        },
-        {
-          "name": "Summoning",
-          "level": 83,
-          "xp": 2676095
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 82,
-          "xp": 2607368
-        },
-        {
-          "name": "Divination",
-          "level": 84,
-          "xp": 3011294
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 83,
-          "xp": 2711871
-        },
-        {
-          "name": "Necromancy",
-          "level": 70,
-          "xp": 796989
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-08T19:21:07.382Z"
-    },
-    {
-      "name": "revival21",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/revival21",
-      "total_level": 2690,
-      "total_xp": 688607660,
-      "league_points": 30080,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 110,
-          "xp": 42456870
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 20724187
-        },
-        {
-          "name": "Strength",
-          "level": 103,
-          "xp": 20731865
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 31829934
-        },
-        {
-          "name": "Ranged",
-          "level": 80,
-          "xp": 2019604
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 116130830
-        },
-        {
-          "name": "Magic",
-          "level": 100,
-          "xp": 14938153
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 13240995
-        },
-        {
-          "name": "Woodcutting",
-          "level": 90,
-          "xp": 5811891
-        },
-        {
-          "name": "Fletching",
-          "level": 90,
-          "xp": 5443254
-        },
-        {
-          "name": "Fishing",
-          "level": 71,
-          "xp": 839304
-        },
-        {
-          "name": "Firemaking",
-          "level": 90,
-          "xp": 5475544
-        },
-        {
-          "name": "Crafting",
-          "level": 99,
-          "xp": 13585961
-        },
-        {
-          "name": "Smithing",
-          "level": 105,
-          "xp": 24334152
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 44698920
-        },
-        {
-          "name": "Herblore",
-          "level": 87,
-          "xp": 3996356
-        },
-        {
-          "name": "Agility",
-          "level": 86,
-          "xp": 3736472
-        },
-        {
-          "name": "Thieving",
-          "level": 68,
-          "xp": 617648
-        },
-        {
-          "name": "Slayer",
-          "level": 102,
-          "xp": 18590300
-        },
-        {
-          "name": "Farming",
-          "level": 112,
-          "xp": 51845805
-        },
-        {
-          "name": "Runecrafting",
-          "level": 85,
-          "xp": 3576940
-        },
-        {
-          "name": "Hunter",
-          "level": 61,
-          "xp": 328112
-        },
-        {
-          "name": "Construction",
-          "level": 87,
-          "xp": 3972798
-        },
-        {
-          "name": "Summoning",
-          "level": 95,
-          "xp": 8964702
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 64,
-          "xp": 439140
-        },
-        {
-          "name": "Divination",
-          "level": 91,
-          "xp": 5962788
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 103,
-          "xp": 20856220
-        },
-        {
-          "name": "Necromancy",
-          "level": 85,
-          "xp": 3458915
-        }
-      ],
-      "poll_rank": "rune",
       "poll_updated_at": "2026-08-08T03:05:18.206Z"
     },
     {
-      "name": "spinachtheif",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/spinachtheif",
-      "total_level": 3086,
-      "total_xp": 1644085628,
-      "league_points": 64150,
-      "skills": [
-        {
-          "name": "Attack",
-          "level": 120,
-          "xp": 153718037
-        },
-        {
-          "name": "Defence",
-          "level": 99,
-          "xp": 153896775
-        },
-        {
-          "name": "Strength",
-          "level": 120,
-          "xp": 153637781
-        },
-        {
-          "name": "Constitution",
-          "level": 99,
-          "xp": 161625751
-        },
-        {
-          "name": "Ranged",
-          "level": 102,
-          "xp": 19228535
-        },
-        {
-          "name": "Prayer",
-          "level": 99,
-          "xp": 16137950
-        },
-        {
-          "name": "Magic",
-          "level": 104,
-          "xp": 21577934
-        },
-        {
-          "name": "Cooking",
-          "level": 99,
-          "xp": 13086122
-        },
-        {
-          "name": "Woodcutting",
-          "level": 103,
-          "xp": 19543880
-        },
-        {
-          "name": "Fletching",
-          "level": 110,
-          "xp": 50210006
-        },
-        {
-          "name": "Fishing",
-          "level": 99,
-          "xp": 17628883
-        },
-        {
-          "name": "Firemaking",
-          "level": 104,
-          "xp": 22349315
-        },
-        {
-          "name": "Crafting",
-          "level": 110,
-          "xp": 50254535
-        },
-        {
-          "name": "Smithing",
-          "level": 107,
-          "xp": 31623841
-        },
-        {
-          "name": "Mining",
-          "level": 110,
-          "xp": 49259649
-        },
-        {
-          "name": "Herblore",
-          "level": 116,
-          "xp": 76657825
-        },
-        {
-          "name": "Agility",
-          "level": 99,
-          "xp": 14080243
-        },
-        {
-          "name": "Thieving",
-          "level": 100,
-          "xp": 14439853
-        },
-        {
-          "name": "Slayer",
-          "level": 118,
-          "xp": 88543860
-        },
-        {
-          "name": "Farming",
-          "level": 115,
-          "xp": 63904673
-        },
-        {
-          "name": "Runecrafting",
-          "level": 103,
-          "xp": 19487700
-        },
-        {
-          "name": "Hunter",
-          "level": 101,
-          "xp": 16020035
-        },
-        {
-          "name": "Construction",
-          "level": 102,
-          "xp": 18786930
-        },
-        {
-          "name": "Summoning",
-          "level": 99,
-          "xp": 14457412
-        },
-        {
-          "name": "Dungeoneering",
-          "level": 102,
-          "xp": 18535906
-        },
-        {
-          "name": "Divination",
-          "level": 99,
-          "xp": 18325719
-        },
-        {
-          "name": "Invention",
-          "level": 120,
-          "xp": 200000000
-        },
-        {
-          "name": "Archaeology",
-          "level": 120,
-          "xp": 118181397
-        },
-        {
-          "name": "Necromancy",
-          "level": 107,
-          "xp": 28885081
-        }
-      ],
-      "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-07T20:22:03.722Z"
-    },
-    {
-      "name": "Stoffer",
+      "name": "Leagues 2 Equilibrium",
       "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Stoffer",
-      "total_level": 2756,
-      "total_xp": 1161421156,
-      "league_points": 34650,
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 50059024
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 117,
-          "xp": 80536575
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 111373816
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 95,
-          "xp": 9282104
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 75736996
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 97,
-          "xp": 10713076
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 65,
-          "xp": 461928
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 99,
-          "xp": 13226481
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 94,
-          "xp": 8501852
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 99,
-          "xp": 13043960
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 92,
-          "xp": 7084809
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 110,
-          "xp": 45424728
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 110,
-          "xp": 39619440
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 78652383
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 100,
-          "xp": 14585937
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 82,
-          "xp": 2514719
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 50,
-          "xp": 111593
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 120,
-          "xp": 119490624
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 107,
-          "xp": 30219023
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 81,
-          "xp": 2336770
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 75,
-          "xp": 1290730
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 74,
-          "xp": 1099659
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 60,
-          "xp": 276048
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 100,
-          "xp": 15436071
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 99,
-          "xp": 13959131
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 99,
-          "xp": 13265323
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 84,
-          "xp": 3118356
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-08T13:31:29.342Z"
     },
     {
-      "name": "TheDailyFind",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/TheDailyFind",
-      "total_level": 3048,
-      "total_xp": 1396506474,
-      "league_points": 60000,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/the%20red%20lexx",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 10,
       "skills": [
         {
           "name": "Attack",
-          "level": 120,
-          "xp": 138595028
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 50044173
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 112,
-          "xp": 50204624
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 78272239
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 99,
-          "xp": 13877526
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 19827564
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 100,
-          "xp": 15727048
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 99,
-          "xp": 20149152
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 103,
-          "xp": 19963000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 101,
-          "xp": 16663451
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 99,
-          "xp": 14826604
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 101,
-          "xp": 16127577
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 104,
-          "xp": 21909280
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 110,
-          "xp": 50067619
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 82927476
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 102,
-          "xp": 17577971
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 99,
-          "xp": 14455673
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 99,
-          "xp": 14100578
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 120,
-          "xp": 104499264
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 120,
-          "xp": 135427526
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 102,
-          "xp": 17879649
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 99,
-          "xp": 14151034
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 99,
-          "xp": 13395097
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 13378689
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 103,
-          "xp": 21221047
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 99,
-          "xp": 14870607
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 155841676
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 112,
-          "xp": 50525302
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-09T21:13:44.409Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/TheDailyFind",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-07T23:19:59.560Z"
     },
     {
-      "name": "Trollalot",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Trollalot",
-      "total_level": 2988,
-      "total_xp": 1014709997,
-      "league_points": 33850,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/ThePvmExpert",
+      "total_level": 72,
+      "total_xp": 10471,
+      "league_points": 260,
       "skills": [
         {
           "name": "Attack",
-          "level": 106,
-          "xp": 26294645
+          "level": 2,
+          "xp": 124
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 26538372
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 106,
-          "xp": 26306005
+          "level": 2,
+          "xp": 124
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 26054703
+          "level": 10,
+          "xp": 1236
         },
         {
           "name": "Ranged",
-          "level": 99,
-          "xp": 13616051
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 52183888
+          "level": 1,
+          "xp": 42
         },
         {
           "name": "Magic",
-          "level": 99,
-          "xp": 13323074
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 99,
-          "xp": 13058908
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 100,
-          "xp": 15113324
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 99,
-          "xp": 13100980
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 99,
-          "xp": 17732713
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 100,
-          "xp": 15040691
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 100,
-          "xp": 14867176
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 108,
-          "xp": 33507395
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 52046982
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 99,
-          "xp": 13128718
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 99,
-          "xp": 13215796
+          "level": 25,
+          "xp": 7945
         },
         {
           "name": "Thieving",
-          "level": 102,
-          "xp": 18356610
+          "level": 9,
+          "xp": 1000
         },
         {
           "name": "Slayer",
-          "level": 106,
-          "xp": 28138322
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 115,
-          "xp": 69476317
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 100,
-          "xp": 14970275
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 99,
-          "xp": 14039875
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 102,
-          "xp": 18319512
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 13322314
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 103,
-          "xp": 19592512
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 99,
-          "xp": 13651111
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 103,
-          "xp": 19713728
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-07T16:35:17.989Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Trollalot",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "rune",
       "poll_updated_at": "2026-08-07T22:23:38.592Z"
     },
     {
-      "name": "TurboEnjoyer",
+      "name": "Leagues 2 Equilibrium",
       "profile_url": "https://rs.runescape.com/hiscores/leagues/player/TurboEnjoyer",
-      "total_level": 3033,
-      "total_xp": 1305202779,
-      "league_points": 50540,
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 116,
-          "xp": 72176669
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 71986283
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 116,
-          "xp": 73539576
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 73386048
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 99,
-          "xp": 13120010
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 58027346
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 101,
-          "xp": 17338322
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 99,
-          "xp": 13695946
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 101,
-          "xp": 17223905
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 99,
-          "xp": 13555447
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 99,
-          "xp": 14558566
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 105,
-          "xp": 25371813
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 104,
-          "xp": 22007535
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 103,
-          "xp": 21159913
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 63790570
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 102,
-          "xp": 18440570
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 99,
-          "xp": 13365409
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 101,
-          "xp": 17199488
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 120,
-          "xp": 115846647
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 120,
-          "xp": 152898184
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 101,
-          "xp": 16252654
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 99,
-          "xp": 13244923
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 99,
-          "xp": 13781548
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 13248502
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 101,
-          "xp": 15952984
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 99,
-          "xp": 15940002
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 120,
-          "xp": 105031935
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 104,
-          "xp": 23061984
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-07T16:39:20.681Z"
     },
     {
-      "name": "VaranOSAAT",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/VaranOSAAT",
-      "total_level": 2285,
-      "total_xp": 393165096,
-      "league_points": 23340,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/V2%20in%20my%20Gym",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 110,
-          "xp": 42430591
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 14573860
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 100,
-          "xp": 14574246
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 23620308
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 62,
-          "xp": 335346
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 14268677
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 62,
-          "xp": 335956
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 51,
-          "xp": 115072
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 81,
-          "xp": 2294993
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 70,
-          "xp": 786213
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 66,
-          "xp": 497032
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 78,
-          "xp": 1749822
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 81,
-          "xp": 2279697
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 96,
-          "xp": 10619467
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 103,
-          "xp": 20484220
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 67,
-          "xp": 599059
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 60,
-          "xp": 276802
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 66,
-          "xp": 504430
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 101,
-          "xp": 16942902
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 103,
-          "xp": 20427826
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 50,
-          "xp": 110247
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 63,
-          "xp": 398271
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 68,
-          "xp": 649551
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 53,
-          "xp": 139228
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 77,
-          "xp": 1488954
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 80,
-          "xp": 2054940
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 57,
-          "xp": 212875
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 63,
-          "xp": 394511
+          "level": 1,
+          "xp": 0
+        }
+      ],
+      "poll_rank": "dragon",
+      "poll_updated_at": "2026-08-07T19:02:06.086Z"
+    },
+    {
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/VaranOSAAT",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
+      "skills": [
+        {
+          "name": "Attack",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Defence",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Strength",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Constitution",
+          "level": 10,
+          "xp": 1154
+        },
+        {
+          "name": "Ranged",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Prayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Magic",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Cooking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Woodcutting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fletching",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Fishing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Firemaking",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Crafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Smithing",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Mining",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Herblore",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Agility",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Thieving",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Slayer",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Farming",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Runecrafting",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Hunter",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Construction",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Summoning",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Dungeoneering",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Divination",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Invention",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Archaeology",
+          "level": 1,
+          "xp": 0
+        },
+        {
+          "name": "Necromancy",
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "rune",
       "poll_updated_at": "2026-08-07T20:45:12.730Z"
     },
     {
-      "name": "Vulpisfoglia",
+      "name": "Leagues 2 Equilibrium",
       "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Vulpisfoglia",
-      "total_level": 3104,
-      "total_xp": 1628594619,
-      "league_points": 63730,
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 114,
-          "xp": 63309199
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 99,
-          "xp": 135871937
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 120,
-          "xp": 135739866
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 99,
-          "xp": 121546147
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 101,
-          "xp": 16002436
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 99,
-          "xp": 50725350
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 104,
-          "xp": 22392990
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 99,
-          "xp": 21150928
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 105,
-          "xp": 25096645
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 110,
-          "xp": 38842025
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 99,
-          "xp": 20781225
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 110,
-          "xp": 47902354
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 110,
-          "xp": 50209981
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 110,
-          "xp": 40491878
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 110,
-          "xp": 38861829
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 117,
-          "xp": 79694211
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 99,
-          "xp": 13387815
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 100,
-          "xp": 14707648
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 118,
-          "xp": 88733272
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 120,
-          "xp": 118380032
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 103,
-          "xp": 20489607
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 100,
-          "xp": 14638417
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 102,
-          "xp": 18870607
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 99,
-          "xp": 13541895
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 102,
-          "xp": 18699694
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 99,
-          "xp": 22336503
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 120,
-          "xp": 200000000
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 119,
-          "xp": 97839039
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 117,
-          "xp": 78351089
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
       "poll_updated_at": "2026-08-08T16:08:34.492Z"
     },
     {
-      "name": "Xufiie",
-      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/Xufiie",
-      "total_level": 2206,
-      "total_xp": 92764569,
-      "league_points": 15270,
+      "name": "Leagues 2 Equilibrium",
+      "profile_url": "https://rs.runescape.com/hiscores/leagues/player/W%20isp",
+      "total_level": 38,
+      "total_xp": 1154,
+      "league_points": 0,
       "skills": [
         {
           "name": "Attack",
-          "level": 99,
-          "xp": 13068738
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Defence",
-          "level": 91,
-          "xp": 5928440
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Strength",
-          "level": 77,
-          "xp": 1567278
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Constitution",
-          "level": 91,
-          "xp": 6461920
+          "level": 10,
+          "xp": 1154
         },
         {
           "name": "Ranged",
-          "level": 64,
-          "xp": 431090
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Prayer",
-          "level": 78,
-          "xp": 1635837
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Magic",
-          "level": 79,
-          "xp": 1807343
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Cooking",
-          "level": 63,
-          "xp": 397741
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Woodcutting",
-          "level": 84,
-          "xp": 3096317
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fletching",
-          "level": 75,
-          "xp": 1302550
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Fishing",
-          "level": 84,
-          "xp": 3209012
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Firemaking",
-          "level": 80,
-          "xp": 2159318
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Crafting",
-          "level": 83,
-          "xp": 2929216
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Smithing",
-          "level": 86,
-          "xp": 3836238
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Mining",
-          "level": 100,
-          "xp": 15480312
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Herblore",
-          "level": 64,
-          "xp": 436306
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Agility",
-          "level": 82,
-          "xp": 2512184
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Thieving",
-          "level": 65,
-          "xp": 470090
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Slayer",
-          "level": 90,
-          "xp": 5791586
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Farming",
-          "level": 86,
-          "xp": 3855081
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Runecrafting",
-          "level": 57,
-          "xp": 222229
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Hunter",
-          "level": 77,
-          "xp": 1504633
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Construction",
-          "level": 80,
-          "xp": 2149332
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Summoning",
-          "level": 61,
-          "xp": 312080
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Dungeoneering",
-          "level": 54,
-          "xp": 152833
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Divination",
-          "level": 80,
-          "xp": 2012313
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Invention",
-          "level": 72,
-          "xp": 9775106
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Archaeology",
-          "level": 52,
-          "xp": 135244
+          "level": 1,
+          "xp": 0
         },
         {
           "name": "Necromancy",
-          "level": 52,
-          "xp": 124202
+          "level": 1,
+          "xp": 0
         }
       ],
       "poll_rank": "dragon",
-      "poll_updated_at": "2026-08-09T04:27:13.657Z"
+      "poll_updated_at": "2026-08-07T19:48:25.316Z"
     }
   ]
 }
