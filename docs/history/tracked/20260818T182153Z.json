@@ -1,9 +1,26 @@
 {
+  "schema_version": 1,
+  "series": "tracked-profiles",
   "logged_at": "2026-08-18T18:21:53.436447+00:00",
   "source_tracked": "https://script.google.com/macros/s/AKfycbyEamckhaHNvgDtq4Moe7T11gRb1FhG0dr88tKSbS8u0Jq7wStFq0QKYhzq5B68w3qx/exec?tracked=1&fresh=1",
   "tracked_count": 95,
   "scraped_count": 0,
   "failed_count": 95,
+  "aggregates": {
+    "points": {
+      "count": 0,
+      "sum": 0,
+      "mean": 0.0,
+      "median": 0,
+      "min": 0,
+      "max": 0,
+      "p25": null,
+      "p75": null,
+      "p90": null,
+      "p99": null
+    }
+  },
+  "players": [],
   "failed": [
     {
       "name": "0-DEATH 0-0",
@@ -385,6 +402,5 @@
       "name": "zalazarat",
       "error": "Could not parse profile skills/totals"
     }
-  ],
-  "players": []
+  ]
 }
