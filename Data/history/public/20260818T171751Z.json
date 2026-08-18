@@ -1,0 +1,2540 @@
+{
+  "schema_version": 1,
+  "series": "public-league-players",
+  "logged_at": "2026-08-18T17:17:51.015617+00:00",
+  "source": "https://rs.runescape.com/hiscores/leagues/leaguePoints",
+  "complete": true,
+  "pages_scraped": 4255,
+  "total_pages": 4255,
+  "total_players": 106375,
+  "aggregates": {
+    "points": {
+      "count": 106375,
+      "sum": 887946680,
+      "mean": 8347.3,
+      "median": 5280,
+      "min": 100,
+      "max": 67850,
+      "p25": 1950,
+      "p75": 12230,
+      "p90": 21680,
+      "p99": 35883
+    }
+  },
+  "top_player": {
+    "rank": 1,
+    "name": "Keiron",
+    "score": 67850
+  },
+  "top_players": [
+    {
+      "rank": 1,
+      "name": "Keiron",
+      "score": 67850
+    },
+    {
+      "rank": 2,
+      "name": "Stormy",
+      "score": 66940
+    },
+    {
+      "rank": 3,
+      "name": "ticklmosnetr",
+      "score": 65010
+    },
+    {
+      "rank": 4,
+      "name": "Reha",
+      "score": 61900
+    },
+    {
+      "rank": 5,
+      "name": "qMiger alt",
+      "score": 61260
+    },
+    {
+      "rank": 6,
+      "name": "Wazzy xD",
+      "score": 60680
+    },
+    {
+      "rank": 7,
+      "name": "LeaguesRDumb",
+      "score": 60500
+    },
+    {
+      "rank": 8,
+      "name": "Solleii",
+      "score": 59970
+    },
+    {
+      "rank": 9,
+      "name": "brewherb",
+      "score": 59130
+    },
+    {
+      "rank": 10,
+      "name": "Gwynrwyn",
+      "score": 58790
+    },
+    {
+      "rank": 11,
+      "name": "Sage Black",
+      "score": 58030
+    },
+    {
+      "rank": 12,
+      "name": "treborsmada",
+      "score": 57850
+    },
+    {
+      "rank": 13,
+      "name": "Bone Shield",
+      "score": 57620
+    },
+    {
+      "rank": 14,
+      "name": "Akkan Boy",
+      "score": 57460
+    },
+    {
+      "rank": 15,
+      "name": "EepyEmilia",
+      "score": 57240
+    },
+    {
+      "rank": 16,
+      "name": "Razrrs",
+      "score": 56620
+    },
+    {
+      "rank": 17,
+      "name": "luqss",
+      "score": 56380
+    },
+    {
+      "rank": 18,
+      "name": "lianie",
+      "score": 56310
+    },
+    {
+      "rank": 19,
+      "name": "Challenjord",
+      "score": 55980
+    },
+    {
+      "rank": 20,
+      "name": "TigerFang",
+      "score": 55930
+    },
+    {
+      "rank": 21,
+      "name": "wxrl",
+      "score": 55790
+    },
+    {
+      "rank": 22,
+      "name": "bliieve",
+      "score": 55780
+    },
+    {
+      "rank": 23,
+      "name": "payout",
+      "score": 55640
+    },
+    {
+      "rank": 24,
+      "name": "Atlamillia",
+      "score": 55490
+    },
+    {
+      "rank": 25,
+      "name": "Yilz",
+      "score": 55270
+    },
+    {
+      "rank": 26,
+      "name": "Schokotraum",
+      "score": 55140
+    },
+    {
+      "rank": 27,
+      "name": "Chalky Nails",
+      "score": 54920
+    },
+    {
+      "rank": 28,
+      "name": "zalttar",
+      "score": 54590
+    },
+    {
+      "rank": 29,
+      "name": "Toaster 2024",
+      "score": 54370
+    },
+    {
+      "rank": 30,
+      "name": "Unohdettu2",
+      "score": 54360
+    },
+    {
+      "rank": 31,
+      "name": "noob sphen",
+      "score": 54170
+    },
+    {
+      "rank": 32,
+      "name": "Leagues Fist",
+      "score": 54160
+    },
+    {
+      "rank": 33,
+      "name": "mini bluudi",
+      "score": 54070
+    },
+    {
+      "rank": 34,
+      "name": "Fresh Sleepy",
+      "score": 54010
+    },
+    {
+      "rank": 35,
+      "name": "okeneko gim",
+      "score": 53850
+    },
+    {
+      "rank": 36,
+      "name": "Zift",
+      "score": 53810
+    },
+    {
+      "rank": 37,
+      "name": "Zirazzz",
+      "score": 53780
+    },
+    {
+      "rank": 38,
+      "name": "Lillildipsy",
+      "score": 53500
+    },
+    {
+      "rank": 39,
+      "name": "everlong",
+      "score": 53360
+    },
+    {
+      "rank": 40,
+      "name": "Listess",
+      "score": 53320
+    },
+    {
+      "rank": 41,
+      "name": "Archer0566",
+      "score": 53020
+    },
+    {
+      "rank": 42,
+      "name": "Not Allycian",
+      "score": 52840
+    },
+    {
+      "rank": 43,
+      "name": "Jkal",
+      "score": 52810
+    },
+    {
+      "rank": 44,
+      "name": "Hydrogy VI",
+      "score": 52810
+    },
+    {
+      "rank": 45,
+      "name": "Miut",
+      "score": 52700
+    },
+    {
+      "rank": 46,
+      "name": "I Hawwah",
+      "score": 52260
+    },
+    {
+      "rank": 47,
+      "name": "Holbytla",
+      "score": 52120
+    },
+    {
+      "rank": 48,
+      "name": "Fenrig",
+      "score": 52000
+    },
+    {
+      "rank": 49,
+      "name": "tehdankbox",
+      "score": 51770
+    },
+    {
+      "rank": 50,
+      "name": "Hessen",
+      "score": 51540
+    },
+    {
+      "rank": 51,
+      "name": "tehdankbox",
+      "score": 51530
+    },
+    {
+      "rank": 52,
+      "name": "Bellossom",
+      "score": 51430
+    },
+    {
+      "rank": 53,
+      "name": "IronDanDy",
+      "score": 51320
+    },
+    {
+      "rank": 54,
+      "name": "Catawba",
+      "score": 51130
+    },
+    {
+      "rank": 55,
+      "name": "KiwiRs3skada",
+      "score": 51110
+    },
+    {
+      "rank": 56,
+      "name": "cSajo",
+      "score": 51100
+    },
+    {
+      "rank": 57,
+      "name": "Fuzzlr",
+      "score": 51020
+    },
+    {
+      "rank": 58,
+      "name": "A Dumb Rat",
+      "score": 51010
+    },
+    {
+      "rank": 59,
+      "name": "cowchy",
+      "score": 50990
+    },
+    {
+      "rank": 60,
+      "name": "cgility",
+      "score": 50970
+    },
+    {
+      "rank": 61,
+      "name": "Razor159753",
+      "score": 50880
+    },
+    {
+      "rank": 62,
+      "name": "Cumree",
+      "score": 50630
+    },
+    {
+      "rank": 63,
+      "name": "Calculus",
+      "score": 50600
+    },
+    {
+      "rank": 64,
+      "name": "Unpolite",
+      "score": 50580
+    },
+    {
+      "rank": 65,
+      "name": "Dwagonwider",
+      "score": 50520
+    },
+    {
+      "rank": 66,
+      "name": "Tzuyuverse",
+      "score": 50500
+    },
+    {
+      "rank": 67,
+      "name": "chicken67",
+      "score": 50490
+    },
+    {
+      "rank": 68,
+      "name": "Ms Katarina",
+      "score": 50350
+    },
+    {
+      "rank": 69,
+      "name": "Jokeux",
+      "score": 50270
+    },
+    {
+      "rank": 70,
+      "name": "Freaky Futa",
+      "score": 50230
+    },
+    {
+      "rank": 71,
+      "name": "Markvs702",
+      "score": 50180
+    },
+    {
+      "rank": 72,
+      "name": "Y0man",
+      "score": 50170
+    },
+    {
+      "rank": 73,
+      "name": "Dameon Ash",
+      "score": 50170
+    },
+    {
+      "rank": 74,
+      "name": "Zato_GIM",
+      "score": 50160
+    },
+    {
+      "rank": 75,
+      "name": "KhazardAlt",
+      "score": 50090
+    },
+    {
+      "rank": 76,
+      "name": "umi neko",
+      "score": 50060
+    },
+    {
+      "rank": 77,
+      "name": "Tadolado",
+      "score": 50040
+    },
+    {
+      "rank": 78,
+      "name": "Feourgia",
+      "score": 50030
+    },
+    {
+      "rank": 79,
+      "name": "Karl G",
+      "score": 50000
+    },
+    {
+      "rank": 80,
+      "name": "mecha uli",
+      "score": 50000
+    },
+    {
+      "rank": 81,
+      "name": "Blakk Ay-nus",
+      "score": 49910
+    },
+    {
+      "rank": 82,
+      "name": "Reapzy",
+      "score": 49890
+    },
+    {
+      "rank": 83,
+      "name": "amr66",
+      "score": 49840
+    },
+    {
+      "rank": 84,
+      "name": "Mikul",
+      "score": 49760
+    },
+    {
+      "rank": 85,
+      "name": "Smellyrat131",
+      "score": 49730
+    },
+    {
+      "rank": 86,
+      "name": "FSW P1C4",
+      "score": 49710
+    },
+    {
+      "rank": 87,
+      "name": "Dwarf OS",
+      "score": 49650
+    },
+    {
+      "rank": 88,
+      "name": "Maikeru",
+      "score": 49600
+    },
+    {
+      "rank": 89,
+      "name": "War God Weed",
+      "score": 49590
+    },
+    {
+      "rank": 90,
+      "name": "DarkRevision",
+      "score": 49590
+    },
+    {
+      "rank": 91,
+      "name": "Wisterica",
+      "score": 49580
+    },
+    {
+      "rank": 92,
+      "name": "marioflame",
+      "score": 49510
+    },
+    {
+      "rank": 93,
+      "name": "Kits",
+      "score": 49430
+    },
+    {
+      "rank": 94,
+      "name": "Jellytotz",
+      "score": 49400
+    },
+    {
+      "rank": 95,
+      "name": "Carcass",
+      "score": 49360
+    },
+    {
+      "rank": 96,
+      "name": "ironmeowmeo",
+      "score": 49330
+    },
+    {
+      "rank": 97,
+      "name": "Studola",
+      "score": 49300
+    },
+    {
+      "rank": 98,
+      "name": "igotnoolife",
+      "score": 49290
+    },
+    {
+      "rank": 99,
+      "name": "Vxus",
+      "score": 49280
+    },
+    {
+      "rank": 100,
+      "name": "LightofFe",
+      "score": 49240
+    },
+    {
+      "rank": 101,
+      "name": "Haumea",
+      "score": 49210
+    },
+    {
+      "rank": 102,
+      "name": "forget2cade",
+      "score": 49210
+    },
+    {
+      "rank": 103,
+      "name": "DeanRs",
+      "score": 49200
+    },
+    {
+      "rank": 104,
+      "name": "jungle jerry",
+      "score": 49060
+    },
+    {
+      "rank": 105,
+      "name": "J oris",
+      "score": 49060
+    },
+    {
+      "rank": 106,
+      "name": "SkinTone5",
+      "score": 49060
+    },
+    {
+      "rank": 107,
+      "name": "Ice Dps",
+      "score": 49020
+    },
+    {
+      "rank": 108,
+      "name": "wat heck",
+      "score": 49010
+    },
+    {
+      "rank": 109,
+      "name": "I Spel Rong",
+      "score": 48960
+    },
+    {
+      "rank": 110,
+      "name": "minifieos",
+      "score": 48810
+    },
+    {
+      "rank": 111,
+      "name": "Roxas0663",
+      "score": 48800
+    },
+    {
+      "rank": 112,
+      "name": "Lenn H",
+      "score": 48790
+    },
+    {
+      "rank": 113,
+      "name": "Grippita",
+      "score": 48780
+    },
+    {
+      "rank": 114,
+      "name": "Basaram12",
+      "score": 48760
+    },
+    {
+      "rank": 115,
+      "name": "Evasionn",
+      "score": 48730
+    },
+    {
+      "rank": 116,
+      "name": "pickle_dog40",
+      "score": 48720
+    },
+    {
+      "rank": 117,
+      "name": "Elroy",
+      "score": 48680
+    },
+    {
+      "rank": 118,
+      "name": "Jorsin",
+      "score": 48540
+    },
+    {
+      "rank": 119,
+      "name": "Prince mts",
+      "score": 48540
+    },
+    {
+      "rank": 120,
+      "name": "TLC N0ul",
+      "score": 48530
+    },
+    {
+      "rank": 121,
+      "name": "Belakayyyyy",
+      "score": 48530
+    },
+    {
+      "rank": 122,
+      "name": "Hekkie",
+      "score": 48520
+    },
+    {
+      "rank": 123,
+      "name": "Monkeymon",
+      "score": 48520
+    },
+    {
+      "rank": 124,
+      "name": "ZieaBtw",
+      "score": 48510
+    },
+    {
+      "rank": 125,
+      "name": "Puddinguin",
+      "score": 48500
+    },
+    {
+      "rank": 126,
+      "name": "Meme Girl",
+      "score": 48440
+    },
+    {
+      "rank": 127,
+      "name": "prada",
+      "score": 48370
+    },
+    {
+      "rank": 128,
+      "name": "IronNuva",
+      "score": 48360
+    },
+    {
+      "rank": 129,
+      "name": "Leevimursu",
+      "score": 48350
+    },
+    {
+      "rank": 130,
+      "name": "SplitTheSoul",
+      "score": 48340
+    },
+    {
+      "rank": 131,
+      "name": "2kool4u2k9",
+      "score": 48300
+    },
+    {
+      "rank": 132,
+      "name": "Cyruss",
+      "score": 48300
+    },
+    {
+      "rank": 133,
+      "name": "JesmaiahRS",
+      "score": 48300
+    },
+    {
+      "rank": 134,
+      "name": "HazelOfEggs",
+      "score": 48290
+    },
+    {
+      "rank": 135,
+      "name": "Nivaaa",
+      "score": 48280
+    },
+    {
+      "rank": 136,
+      "name": "Prince mts",
+      "score": 48260
+    },
+    {
+      "rank": 137,
+      "name": "Pom Pi Dom",
+      "score": 48240
+    },
+    {
+      "rank": 138,
+      "name": "Iodestar2",
+      "score": 48240
+    },
+    {
+      "rank": 139,
+      "name": "Xindrjayzda",
+      "score": 48240
+    },
+    {
+      "rank": 140,
+      "name": "Perfectuxd",
+      "score": 48230
+    },
+    {
+      "rank": 141,
+      "name": "Dirtyd27",
+      "score": 48230
+    },
+    {
+      "rank": 142,
+      "name": "Wovles",
+      "score": 48210
+    },
+    {
+      "rank": 143,
+      "name": "Octilus",
+      "score": 48210
+    },
+    {
+      "rank": 144,
+      "name": "Censassional",
+      "score": 48210
+    },
+    {
+      "rank": 145,
+      "name": "The RS Guy",
+      "score": 48200
+    },
+    {
+      "rank": 146,
+      "name": "Kroma",
+      "score": 48200
+    },
+    {
+      "rank": 147,
+      "name": "Angyraccoon",
+      "score": 48200
+    },
+    {
+      "rank": 148,
+      "name": "Sir Wally 1",
+      "score": 48200
+    },
+    {
+      "rank": 149,
+      "name": "5th Cel",
+      "score": 48200
+    },
+    {
+      "rank": 150,
+      "name": "Old McDieren",
+      "score": 48170
+    },
+    {
+      "rank": 151,
+      "name": "Old McDieren",
+      "score": 48170
+    },
+    {
+      "rank": 152,
+      "name": "Leagues Shao",
+      "score": 48160
+    },
+    {
+      "rank": 153,
+      "name": "NoName",
+      "score": 48160
+    },
+    {
+      "rank": 154,
+      "name": "Weather",
+      "score": 48160
+    },
+    {
+      "rank": 155,
+      "name": "Erivia",
+      "score": 48160
+    },
+    {
+      "rank": 156,
+      "name": "OnCompnyTime",
+      "score": 48160
+    },
+    {
+      "rank": 157,
+      "name": "Chunky Shazi",
+      "score": 48150
+    },
+    {
+      "rank": 158,
+      "name": "astrozzy",
+      "score": 48130
+    },
+    {
+      "rank": 159,
+      "name": "GrimlenKado",
+      "score": 48120
+    },
+    {
+      "rank": 160,
+      "name": "Redwigan",
+      "score": 48120
+    },
+    {
+      "rank": 161,
+      "name": "Waqes",
+      "score": 48110
+    },
+    {
+      "rank": 162,
+      "name": "Slifersjv1",
+      "score": 48110
+    },
+    {
+      "rank": 163,
+      "name": "irontaskroll",
+      "score": 48100
+    },
+    {
+      "rank": 164,
+      "name": "8w1",
+      "score": 48090
+    },
+    {
+      "rank": 165,
+      "name": "Zap Commando",
+      "score": 48090
+    },
+    {
+      "rank": 166,
+      "name": "Farmer Thor",
+      "score": 48080
+    },
+    {
+      "rank": 167,
+      "name": "SpidermanSux",
+      "score": 48070
+    },
+    {
+      "rank": 168,
+      "name": "Spekkhoggern",
+      "score": 48060
+    },
+    {
+      "rank": 169,
+      "name": "Crystal Fox",
+      "score": 48060
+    },
+    {
+      "rank": 170,
+      "name": "GimpyChimpy",
+      "score": 48050
+    },
+    {
+      "rank": 171,
+      "name": "ChocoCookie",
+      "score": 48050
+    },
+    {
+      "rank": 172,
+      "name": "ATD",
+      "score": 48050
+    },
+    {
+      "rank": 173,
+      "name": "space pace",
+      "score": 48050
+    },
+    {
+      "rank": 174,
+      "name": "Purisu",
+      "score": 48050
+    },
+    {
+      "rank": 175,
+      "name": "Joxerlol",
+      "score": 48050
+    },
+    {
+      "rank": 176,
+      "name": "IM Tarlone",
+      "score": 48050
+    },
+    {
+      "rank": 177,
+      "name": "Jcw",
+      "score": 48040
+    },
+    {
+      "rank": 178,
+      "name": "Teleblock",
+      "score": 48040
+    },
+    {
+      "rank": 179,
+      "name": "QualitySushi",
+      "score": 48040
+    },
+    {
+      "rank": 180,
+      "name": "gargalonmyd",
+      "score": 48040
+    },
+    {
+      "rank": 181,
+      "name": "Libertarian",
+      "score": 48040
+    },
+    {
+      "rank": 182,
+      "name": "Stepo Jr",
+      "score": 48040
+    },
+    {
+      "rank": 183,
+      "name": "Geckomon",
+      "score": 48030
+    },
+    {
+      "rank": 184,
+      "name": "Cinnirona",
+      "score": 48020
+    },
+    {
+      "rank": 185,
+      "name": "Frosty Jordi",
+      "score": 48020
+    },
+    {
+      "rank": 186,
+      "name": "Kunio",
+      "score": 48020
+    },
+    {
+      "rank": 187,
+      "name": "STAAHP",
+      "score": 48020
+    },
+    {
+      "rank": 188,
+      "name": "K A G A",
+      "score": 48010
+    },
+    {
+      "rank": 189,
+      "name": "Mr Klat",
+      "score": 48010
+    },
+    {
+      "rank": 190,
+      "name": "Whomst MD",
+      "score": 48010
+    },
+    {
+      "rank": 191,
+      "name": "RS3 Quake",
+      "score": 48010
+    },
+    {
+      "rank": 192,
+      "name": "ToniWzKnight",
+      "score": 48010
+    },
+    {
+      "rank": 193,
+      "name": "x_MLG_PURE_x",
+      "score": 48000
+    },
+    {
+      "rank": 194,
+      "name": "Dyselexic",
+      "score": 48000
+    },
+    {
+      "rank": 195,
+      "name": "Olddoor26",
+      "score": 48000
+    },
+    {
+      "rank": 196,
+      "name": "Dragongator6",
+      "score": 48000
+    },
+    {
+      "rank": 197,
+      "name": "Ceren",
+      "score": 48000
+    },
+    {
+      "rank": 198,
+      "name": "I Am Art",
+      "score": 48000
+    },
+    {
+      "rank": 199,
+      "name": "Ava Lusine",
+      "score": 48000
+    },
+    {
+      "rank": 200,
+      "name": "Decimation",
+      "score": 48000
+    },
+    {
+      "rank": 201,
+      "name": "Insanewolfy",
+      "score": 48000
+    },
+    {
+      "rank": 202,
+      "name": "Shirojika",
+      "score": 48000
+    },
+    {
+      "rank": 203,
+      "name": "toff haha",
+      "score": 48000
+    },
+    {
+      "rank": 204,
+      "name": "OitoOitavos",
+      "score": 48000
+    },
+    {
+      "rank": 205,
+      "name": "Olly",
+      "score": 48000
+    },
+    {
+      "rank": 206,
+      "name": "Opayye",
+      "score": 48000
+    },
+    {
+      "rank": 207,
+      "name": "scarykoala58",
+      "score": 48000
+    },
+    {
+      "rank": 208,
+      "name": "Tyst",
+      "score": 48000
+    },
+    {
+      "rank": 209,
+      "name": "Verlu",
+      "score": 48000
+    },
+    {
+      "rank": 210,
+      "name": "OneTheyCall",
+      "score": 48000
+    },
+    {
+      "rank": 211,
+      "name": "Kwik Chatt",
+      "score": 48000
+    },
+    {
+      "rank": 212,
+      "name": "TinyChanges",
+      "score": 48000
+    },
+    {
+      "rank": 213,
+      "name": "noobirini3",
+      "score": 48000
+    },
+    {
+      "rank": 214,
+      "name": "HcRada",
+      "score": 48000
+    },
+    {
+      "rank": 215,
+      "name": "Devz_iron",
+      "score": 47880
+    },
+    {
+      "rank": 216,
+      "name": "IsolatedNerd",
+      "score": 47640
+    },
+    {
+      "rank": 217,
+      "name": "Cabbage-port",
+      "score": 47420
+    },
+    {
+      "rank": 218,
+      "name": "thelostmage",
+      "score": 47400
+    },
+    {
+      "rank": 219,
+      "name": "Pocket Dough",
+      "score": 47380
+    },
+    {
+      "rank": 220,
+      "name": "BESTOY",
+      "score": 47370
+    },
+    {
+      "rank": 221,
+      "name": "TaskMan Juan",
+      "score": 47360
+    },
+    {
+      "rank": 222,
+      "name": "Omid",
+      "score": 47220
+    },
+    {
+      "rank": 223,
+      "name": "SniperBTW",
+      "score": 47220
+    },
+    {
+      "rank": 224,
+      "name": "TheDavonator",
+      "score": 47140
+    },
+    {
+      "rank": 225,
+      "name": "Guarde d",
+      "score": 47120
+    },
+    {
+      "rank": 226,
+      "name": "Rushed Death",
+      "score": 47100
+    },
+    {
+      "rank": 227,
+      "name": "A cclimation",
+      "score": 47060
+    },
+    {
+      "rank": 228,
+      "name": "Iron Lil",
+      "score": 47050
+    },
+    {
+      "rank": 229,
+      "name": "VNDI",
+      "score": 47010
+    },
+    {
+      "rank": 230,
+      "name": "Gazey",
+      "score": 46950
+    },
+    {
+      "rank": 231,
+      "name": "Grippita",
+      "score": 46950
+    },
+    {
+      "rank": 232,
+      "name": "Naucle",
+      "score": 46930
+    },
+    {
+      "rank": 233,
+      "name": "Chillz",
+      "score": 46930
+    },
+    {
+      "rank": 234,
+      "name": "Ocarina",
+      "score": 46910
+    },
+    {
+      "rank": 235,
+      "name": "Melee Pattow",
+      "score": 46870
+    },
+    {
+      "rank": 236,
+      "name": "Dreamm",
+      "score": 46820
+    },
+    {
+      "rank": 237,
+      "name": "maldbatty",
+      "score": 46790
+    },
+    {
+      "rank": 238,
+      "name": "Zolcee",
+      "score": 46770
+    },
+    {
+      "rank": 239,
+      "name": "Irochiyo",
+      "score": 46650
+    },
+    {
+      "rank": 240,
+      "name": "52 x p",
+      "score": 46600
+    },
+    {
+      "rank": 241,
+      "name": "Im The Best",
+      "score": 46590
+    },
+    {
+      "rank": 242,
+      "name": "any fun",
+      "score": 46580
+    },
+    {
+      "rank": 243,
+      "name": "HCIM B E E E",
+      "score": 46490
+    },
+    {
+      "rank": 244,
+      "name": "CyanMan26",
+      "score": 46420
+    },
+    {
+      "rank": 245,
+      "name": "Cheyne uK",
+      "score": 46400
+    },
+    {
+      "rank": 246,
+      "name": "JesssTer",
+      "score": 46330
+    },
+    {
+      "rank": 247,
+      "name": "Yeurielle",
+      "score": 46290
+    },
+    {
+      "rank": 248,
+      "name": "Jurassic",
+      "score": 46280
+    },
+    {
+      "rank": 249,
+      "name": "BynumRellano",
+      "score": 46230
+    },
+    {
+      "rank": 250,
+      "name": "xh e a r t x",
+      "score": 46230
+    },
+    {
+      "rank": 251,
+      "name": "BynumRellano",
+      "score": 46230
+    },
+    {
+      "rank": 252,
+      "name": "xh e a r t x",
+      "score": 46230
+    },
+    {
+      "rank": 253,
+      "name": "Tippi Tappi",
+      "score": 46210
+    },
+    {
+      "rank": 254,
+      "name": "Deshgaro",
+      "score": 46180
+    },
+    {
+      "rank": 255,
+      "name": "xSad Shadow",
+      "score": 46100
+    },
+    {
+      "rank": 256,
+      "name": "morils",
+      "score": 45930
+    },
+    {
+      "rank": 257,
+      "name": "Kaiyser OS",
+      "score": 45910
+    },
+    {
+      "rank": 258,
+      "name": "Blend 43",
+      "score": 45900
+    },
+    {
+      "rank": 259,
+      "name": "Prime Luck",
+      "score": 45880
+    },
+    {
+      "rank": 260,
+      "name": "miukumaukuu",
+      "score": 45810
+    },
+    {
+      "rank": 261,
+      "name": "Speccy",
+      "score": 45810
+    },
+    {
+      "rank": 262,
+      "name": "Not Thing",
+      "score": 45800
+    },
+    {
+      "rank": 263,
+      "name": "Just Exotic",
+      "score": 45790
+    },
+    {
+      "rank": 264,
+      "name": "71benadryl",
+      "score": 45750
+    },
+    {
+      "rank": 265,
+      "name": "IM Spartan",
+      "score": 45700
+    },
+    {
+      "rank": 266,
+      "name": "Gioe",
+      "score": 45690
+    },
+    {
+      "rank": 267,
+      "name": "Cogu",
+      "score": 45660
+    },
+    {
+      "rank": 268,
+      "name": "Flamestar",
+      "score": 45650
+    },
+    {
+      "rank": 269,
+      "name": "Swimkim",
+      "score": 45630
+    },
+    {
+      "rank": 270,
+      "name": "Taskman Blue",
+      "score": 45600
+    },
+    {
+      "rank": 271,
+      "name": "Pain-o",
+      "score": 45580
+    },
+    {
+      "rank": 272,
+      "name": "Mossy Taint",
+      "score": 45540
+    },
+    {
+      "rank": 273,
+      "name": "donkeynuts83",
+      "score": 45540
+    },
+    {
+      "rank": 274,
+      "name": "kiday",
+      "score": 45510
+    },
+    {
+      "rank": 275,
+      "name": "Das Wanderer",
+      "score": 45480
+    },
+    {
+      "rank": 276,
+      "name": "SheHerbi",
+      "score": 45470
+    },
+    {
+      "rank": 277,
+      "name": "Starcrafting",
+      "score": 45430
+    },
+    {
+      "rank": 278,
+      "name": "gm bro",
+      "score": 45390
+    },
+    {
+      "rank": 279,
+      "name": "Iron Laura1",
+      "score": 45380
+    },
+    {
+      "rank": 280,
+      "name": "Shaw Krieg",
+      "score": 45360
+    },
+    {
+      "rank": 281,
+      "name": "Zalry",
+      "score": 45300
+    },
+    {
+      "rank": 282,
+      "name": "Smurgyz",
+      "score": 45290
+    },
+    {
+      "rank": 283,
+      "name": "D e w w",
+      "score": 45230
+    },
+    {
+      "rank": 284,
+      "name": "Theump",
+      "score": 45210
+    },
+    {
+      "rank": 285,
+      "name": "ByeMainscape",
+      "score": 45200
+    },
+    {
+      "rank": 286,
+      "name": "10DmgJimmy",
+      "score": 45180
+    },
+    {
+      "rank": 287,
+      "name": "Lil Tenshi",
+      "score": 45140
+    },
+    {
+      "rank": 288,
+      "name": "Luukot",
+      "score": 45110
+    },
+    {
+      "rank": 289,
+      "name": "no mi",
+      "score": 45070
+    },
+    {
+      "rank": 290,
+      "name": "inner song",
+      "score": 45050
+    },
+    {
+      "rank": 291,
+      "name": "Raghnall",
+      "score": 45030
+    },
+    {
+      "rank": 292,
+      "name": "Tommyswhale",
+      "score": 44990
+    },
+    {
+      "rank": 293,
+      "name": "Ajm Linkle",
+      "score": 44980
+    },
+    {
+      "rank": 294,
+      "name": "Miques",
+      "score": 44940
+    },
+    {
+      "rank": 295,
+      "name": "Mithzan",
+      "score": 44940
+    },
+    {
+      "rank": 296,
+      "name": "domlet",
+      "score": 44940
+    },
+    {
+      "rank": 297,
+      "name": "Galid Vanell",
+      "score": 44910
+    },
+    {
+      "rank": 298,
+      "name": "Hadopelagia",
+      "score": 44910
+    },
+    {
+      "rank": 299,
+      "name": "Dranet IM",
+      "score": 44910
+    },
+    {
+      "rank": 300,
+      "name": "Iron Chemic",
+      "score": 44860
+    },
+    {
+      "rank": 301,
+      "name": "Jacobxtreme",
+      "score": 44810
+    },
+    {
+      "rank": 302,
+      "name": "lukas cartel",
+      "score": 44720
+    },
+    {
+      "rank": 303,
+      "name": "Bugs Bunny",
+      "score": 44720
+    },
+    {
+      "rank": 304,
+      "name": "Popoyoi",
+      "score": 44700
+    },
+    {
+      "rank": 305,
+      "name": "Pr0s2k",
+      "score": 44660
+    },
+    {
+      "rank": 306,
+      "name": "D B Cooper",
+      "score": 44640
+    },
+    {
+      "rank": 307,
+      "name": "Pur",
+      "score": 44630
+    },
+    {
+      "rank": 308,
+      "name": "ursww",
+      "score": 44620
+    },
+    {
+      "rank": 309,
+      "name": "MySnicker420",
+      "score": 44610
+    },
+    {
+      "rank": 310,
+      "name": "Blutschuppe",
+      "score": 44610
+    },
+    {
+      "rank": 311,
+      "name": "Ultirix",
+      "score": 44540
+    },
+    {
+      "rank": 312,
+      "name": "ArcaneAdz",
+      "score": 44530
+    },
+    {
+      "rank": 313,
+      "name": "brave emily",
+      "score": 44520
+    },
+    {
+      "rank": 314,
+      "name": "Iron Greg",
+      "score": 44470
+    },
+    {
+      "rank": 315,
+      "name": "Freshdal",
+      "score": 44360
+    },
+    {
+      "rank": 316,
+      "name": "Kevin 502",
+      "score": 44310
+    },
+    {
+      "rank": 317,
+      "name": "PrimaAntiqua",
+      "score": 44270
+    },
+    {
+      "rank": 318,
+      "name": "Reshi Mooo",
+      "score": 44260
+    },
+    {
+      "rank": 319,
+      "name": "J od",
+      "score": 44210
+    },
+    {
+      "rank": 320,
+      "name": "Tha RS Spoon",
+      "score": 44190
+    },
+    {
+      "rank": 321,
+      "name": "gmhn",
+      "score": 44160
+    },
+    {
+      "rank": 322,
+      "name": "9 Inches",
+      "score": 44150
+    },
+    {
+      "rank": 323,
+      "name": "Zyfph",
+      "score": 44140
+    },
+    {
+      "rank": 324,
+      "name": "Torud",
+      "score": 44120
+    },
+    {
+      "rank": 325,
+      "name": "Not Axsyl",
+      "score": 44100
+    },
+    {
+      "rank": 326,
+      "name": "en puhu",
+      "score": 44080
+    },
+    {
+      "rank": 327,
+      "name": "Monke Ghost",
+      "score": 44070
+    },
+    {
+      "rank": 328,
+      "name": "Parapapoum",
+      "score": 44020
+    },
+    {
+      "rank": 329,
+      "name": "iGoofy",
+      "score": 44000
+    },
+    {
+      "rank": 330,
+      "name": "oj king",
+      "score": 44000
+    },
+    {
+      "rank": 331,
+      "name": "Repaeler",
+      "score": 43970
+    },
+    {
+      "rank": 332,
+      "name": "Nixon",
+      "score": 43920
+    },
+    {
+      "rank": 333,
+      "name": "Carlton RS",
+      "score": 43910
+    },
+    {
+      "rank": 334,
+      "name": "IM567X",
+      "score": 43910
+    },
+    {
+      "rank": 335,
+      "name": "Jellefish",
+      "score": 43900
+    },
+    {
+      "rank": 336,
+      "name": "Only Boned",
+      "score": 43860
+    },
+    {
+      "rank": 337,
+      "name": "Wire_Knight",
+      "score": 43840
+    },
+    {
+      "rank": 338,
+      "name": "Kursone",
+      "score": 43830
+    },
+    {
+      "rank": 339,
+      "name": "Kiefer",
+      "score": 43820
+    },
+    {
+      "rank": 340,
+      "name": "not ybt",
+      "score": 43790
+    },
+    {
+      "rank": 341,
+      "name": "Gwen Main",
+      "score": 43730
+    },
+    {
+      "rank": 342,
+      "name": "SquiglyLemon",
+      "score": 43700
+    },
+    {
+      "rank": 343,
+      "name": "Wilg",
+      "score": 43690
+    },
+    {
+      "rank": 344,
+      "name": "panic sell",
+      "score": 43680
+    },
+    {
+      "rank": 345,
+      "name": "peejii",
+      "score": 43660
+    },
+    {
+      "rank": 346,
+      "name": "fingirl",
+      "score": 43640
+    },
+    {
+      "rank": 347,
+      "name": "Lidore",
+      "score": 43620
+    },
+    {
+      "rank": 348,
+      "name": "AGoldfishMan",
+      "score": 43580
+    },
+    {
+      "rank": 349,
+      "name": "Vulpisfoglia",
+      "score": 43530
+    },
+    {
+      "rank": 350,
+      "name": "JordB",
+      "score": 43510
+    },
+    {
+      "rank": 351,
+      "name": "Jumbjay",
+      "score": 43500
+    },
+    {
+      "rank": 352,
+      "name": "OF Erin",
+      "score": 43500
+    },
+    {
+      "rank": 353,
+      "name": "NoskillGAZ",
+      "score": 43430
+    },
+    {
+      "rank": 354,
+      "name": "Sacratan",
+      "score": 43410
+    },
+    {
+      "rank": 355,
+      "name": "Skinzo",
+      "score": 43400
+    },
+    {
+      "rank": 356,
+      "name": "Jacab",
+      "score": 43350
+    },
+    {
+      "rank": 357,
+      "name": "37899920037",
+      "score": 43320
+    },
+    {
+      "rank": 358,
+      "name": "TzCokChad",
+      "score": 43300
+    },
+    {
+      "rank": 359,
+      "name": "Tazy_y",
+      "score": 43300
+    },
+    {
+      "rank": 360,
+      "name": "PoorestOfMen",
+      "score": 43280
+    },
+    {
+      "rank": 361,
+      "name": "CommonGood",
+      "score": 43280
+    },
+    {
+      "rank": 362,
+      "name": "FeralCreator",
+      "score": 43280
+    },
+    {
+      "rank": 363,
+      "name": "goblin raid",
+      "score": 43240
+    },
+    {
+      "rank": 364,
+      "name": "Hugostos0",
+      "score": 43230
+    },
+    {
+      "rank": 365,
+      "name": "Aodir",
+      "score": 43220
+    },
+    {
+      "rank": 366,
+      "name": "ItzRoyalIron",
+      "score": 43200
+    },
+    {
+      "rank": 367,
+      "name": "Ixile",
+      "score": 43200
+    },
+    {
+      "rank": 368,
+      "name": "Zo op",
+      "score": 43170
+    },
+    {
+      "rank": 369,
+      "name": "Peabody",
+      "score": 43140
+    },
+    {
+      "rank": 370,
+      "name": "Mazzter",
+      "score": 43040
+    },
+    {
+      "rank": 371,
+      "name": "Skyace74",
+      "score": 43040
+    },
+    {
+      "rank": 372,
+      "name": "Hiikii",
+      "score": 43030
+    },
+    {
+      "rank": 373,
+      "name": "Lukkas",
+      "score": 43000
+    },
+    {
+      "rank": 374,
+      "name": "Naliauwu",
+      "score": 43000
+    },
+    {
+      "rank": 375,
+      "name": "Main Tongue",
+      "score": 42860
+    },
+    {
+      "rank": 376,
+      "name": "bens arrows",
+      "score": 42850
+    },
+    {
+      "rank": 377,
+      "name": "Mggee 2",
+      "score": 42840
+    },
+    {
+      "rank": 378,
+      "name": "GI Grinch",
+      "score": 42710
+    },
+    {
+      "rank": 379,
+      "name": "IQPoints",
+      "score": 42710
+    },
+    {
+      "rank": 380,
+      "name": "Flintchip",
+      "score": 42700
+    },
+    {
+      "rank": 381,
+      "name": "me like fih",
+      "score": 42670
+    },
+    {
+      "rank": 382,
+      "name": "Yulind1",
+      "score": 42660
+    },
+    {
+      "rank": 383,
+      "name": "ShadedWisper",
+      "score": 42660
+    },
+    {
+      "rank": 384,
+      "name": "Thingeh",
+      "score": 42650
+    },
+    {
+      "rank": 385,
+      "name": "Zenigate",
+      "score": 42650
+    },
+    {
+      "rank": 386,
+      "name": "Exeado",
+      "score": 42610
+    },
+    {
+      "rank": 387,
+      "name": "Vasco",
+      "score": 42600
+    },
+    {
+      "rank": 388,
+      "name": "Re-Tz-Ar-Ded",
+      "score": 42600
+    },
+    {
+      "rank": 389,
+      "name": "PixelSky",
+      "score": 42550
+    },
+    {
+      "rank": 390,
+      "name": "unseat67",
+      "score": 42550
+    },
+    {
+      "rank": 391,
+      "name": "Pksmiley",
+      "score": 42540
+    },
+    {
+      "rank": 392,
+      "name": "FSW Rak",
+      "score": 42530
+    },
+    {
+      "rank": 393,
+      "name": "Kidguy",
+      "score": 42510
+    },
+    {
+      "rank": 394,
+      "name": "B I 0 S",
+      "score": 42500
+    },
+    {
+      "rank": 395,
+      "name": "offsidejerry",
+      "score": 42490
+    },
+    {
+      "rank": 396,
+      "name": "A rjen",
+      "score": 42490
+    },
+    {
+      "rank": 397,
+      "name": "LordNims",
+      "score": 42480
+    },
+    {
+      "rank": 398,
+      "name": "ZergyStardst",
+      "score": 42480
+    },
+    {
+      "rank": 399,
+      "name": "weenus",
+      "score": 42460
+    },
+    {
+      "rank": 400,
+      "name": "frogspawn4",
+      "score": 42420
+    },
+    {
+      "rank": 401,
+      "name": "Just Callum",
+      "score": 42340
+    },
+    {
+      "rank": 402,
+      "name": "Big Poopa",
+      "score": 42330
+    },
+    {
+      "rank": 403,
+      "name": "Hot Jubbly",
+      "score": 42290
+    },
+    {
+      "rank": 404,
+      "name": "Leipalol",
+      "score": 42270
+    },
+    {
+      "rank": 405,
+      "name": "Layden",
+      "score": 42240
+    },
+    {
+      "rank": 406,
+      "name": "BNG Robin",
+      "score": 42190
+    },
+    {
+      "rank": 407,
+      "name": "NooseWandYou",
+      "score": 42180
+    },
+    {
+      "rank": 408,
+      "name": "T0NI2",
+      "score": 42130
+    },
+    {
+      "rank": 409,
+      "name": "TaskManJemes",
+      "score": 42120
+    },
+    {
+      "rank": 410,
+      "name": "Roast Kiss",
+      "score": 42110
+    },
+    {
+      "rank": 411,
+      "name": "Fraggy G",
+      "score": 42090
+    },
+    {
+      "rank": 412,
+      "name": "Darth REKT",
+      "score": 42050
+    },
+    {
+      "rank": 413,
+      "name": "McYeti",
+      "score": 42020
+    },
+    {
+      "rank": 414,
+      "name": "B L U E Moon",
+      "score": 42010
+    },
+    {
+      "rank": 415,
+      "name": "IronBouboune",
+      "score": 42000
+    },
+    {
+      "rank": 416,
+      "name": "Cucui Ganon",
+      "score": 41980
+    },
+    {
+      "rank": 417,
+      "name": "cSean",
+      "score": 41960
+    },
+    {
+      "rank": 418,
+      "name": "Ayumu",
+      "score": 41950
+    },
+    {
+      "rank": 419,
+      "name": "Morski",
+      "score": 41950
+    },
+    {
+      "rank": 420,
+      "name": "pislices",
+      "score": 41950
+    },
+    {
+      "rank": 421,
+      "name": "Fussell",
+      "score": 41930
+    },
+    {
+      "rank": 422,
+      "name": "Etches",
+      "score": 41920
+    },
+    {
+      "rank": 423,
+      "name": "Denniz",
+      "score": 41900
+    },
+    {
+      "rank": 424,
+      "name": "Uri",
+      "score": 41890
+    },
+    {
+      "rank": 425,
+      "name": "Piescension",
+      "score": 41840
+    },
+    {
+      "rank": 426,
+      "name": "Tehmo",
+      "score": 41830
+    },
+    {
+      "rank": 427,
+      "name": "Unsolved",
+      "score": 41820
+    },
+    {
+      "rank": 428,
+      "name": "zee pk",
+      "score": 41780
+    },
+    {
+      "rank": 429,
+      "name": "MintyCoke",
+      "score": 41750
+    },
+    {
+      "rank": 430,
+      "name": "JuanAlone",
+      "score": 41740
+    },
+    {
+      "rank": 431,
+      "name": "IcyMoon",
+      "score": 41740
+    },
+    {
+      "rank": 432,
+      "name": "rsrs",
+      "score": 41740
+    },
+    {
+      "rank": 433,
+      "name": "linie",
+      "score": 41730
+    },
+    {
+      "rank": 434,
+      "name": "DraCam",
+      "score": 41730
+    },
+    {
+      "rank": 435,
+      "name": "Planet Booty",
+      "score": 41710
+    },
+    {
+      "rank": 436,
+      "name": "Yickee",
+      "score": 41710
+    },
+    {
+      "rank": 437,
+      "name": "Iron Dallie",
+      "score": 41700
+    },
+    {
+      "rank": 438,
+      "name": "leaderhozen",
+      "score": 41700
+    },
+    {
+      "rank": 439,
+      "name": "Rajmundi",
+      "score": 41690
+    },
+    {
+      "rank": 440,
+      "name": "haubna",
+      "score": 41670
+    },
+    {
+      "rank": 441,
+      "name": "TheDailyFind",
+      "score": 41660
+    },
+    {
+      "rank": 442,
+      "name": "Ne0J",
+      "score": 41660
+    },
+    {
+      "rank": 443,
+      "name": "Fightfrog811",
+      "score": 41650
+    },
+    {
+      "rank": 444,
+      "name": "lrisk",
+      "score": 41640
+    },
+    {
+      "rank": 445,
+      "name": "Jezza Corbyn",
+      "score": 41600
+    },
+    {
+      "rank": 446,
+      "name": "Sil E Goose",
+      "score": 41580
+    },
+    {
+      "rank": 447,
+      "name": "IronCamel",
+      "score": 41570
+    },
+    {
+      "rank": 448,
+      "name": "Aguakashi",
+      "score": 41560
+    },
+    {
+      "rank": 449,
+      "name": "Dursaid",
+      "score": 41530
+    },
+    {
+      "rank": 450,
+      "name": "Alaina 2",
+      "score": 41500
+    },
+    {
+      "rank": 451,
+      "name": "5teven",
+      "score": 41460
+    },
+    {
+      "rank": 452,
+      "name": "DraCam",
+      "score": 41450
+    },
+    {
+      "rank": 453,
+      "name": "stimpak_vt",
+      "score": 41440
+    },
+    {
+      "rank": 454,
+      "name": "D amz",
+      "score": 41420
+    },
+    {
+      "rank": 455,
+      "name": "Harbin Brew",
+      "score": 41420
+    },
+    {
+      "rank": 456,
+      "name": "Wuffo",
+      "score": 41400
+    },
+    {
+      "rank": 457,
+      "name": "NoobSquid",
+      "score": 41380
+    },
+    {
+      "rank": 458,
+      "name": "VorkathOWO",
+      "score": 41360
+    },
+    {
+      "rank": 459,
+      "name": "TheHapa",
+      "score": 41350
+    },
+    {
+      "rank": 460,
+      "name": "Gagos",
+      "score": 41340
+    },
+    {
+      "rank": 461,
+      "name": "Shundo Mew",
+      "score": 41340
+    },
+    {
+      "rank": 462,
+      "name": "Send Memes",
+      "score": 41320
+    },
+    {
+      "rank": 463,
+      "name": "beee89",
+      "score": 41270
+    },
+    {
+      "rank": 464,
+      "name": "footy b",
+      "score": 41270
+    },
+    {
+      "rank": 465,
+      "name": "iBart",
+      "score": 41260
+    },
+    {
+      "rank": 466,
+      "name": "Dfuzzer",
+      "score": 41240
+    },
+    {
+      "rank": 467,
+      "name": "Sin Davis",
+      "score": 41230
+    },
+    {
+      "rank": 468,
+      "name": "Erasold",
+      "score": 41230
+    },
+    {
+      "rank": 469,
+      "name": "Bob Buford",
+      "score": 41170
+    },
+    {
+      "rank": 470,
+      "name": "Sandy Seals",
+      "score": 41160
+    },
+    {
+      "rank": 471,
+      "name": "BHAFC",
+      "score": 41140
+    },
+    {
+      "rank": 472,
+      "name": "Thug Daddy",
+      "score": 41140
+    },
+    {
+      "rank": 473,
+      "name": "NoCG",
+      "score": 41120
+    },
+    {
+      "rank": 474,
+      "name": "My Delusion",
+      "score": 41110
+    },
+    {
+      "rank": 475,
+      "name": "DieHardly",
+      "score": 41080
+    },
+    {
+      "rank": 476,
+      "name": "My Delusion",
+      "score": 41110
+    },
+    {
+      "rank": 477,
+      "name": "Ouluu",
+      "score": 41110
+    },
+    {
+      "rank": 478,
+      "name": "DieHardly",
+      "score": 41080
+    },
+    {
+      "rank": 479,
+      "name": "moxielf",
+      "score": 41070
+    },
+    {
+      "rank": 480,
+      "name": "brunim",
+      "score": 41050
+    },
+    {
+      "rank": 481,
+      "name": "iGasm",
+      "score": 41010
+    },
+    {
+      "rank": 482,
+      "name": "Skellington",
+      "score": 40950
+    },
+    {
+      "rank": 483,
+      "name": "not worrie",
+      "score": 40950
+    },
+    {
+      "rank": 484,
+      "name": "BlizzardBear",
+      "score": 40940
+    },
+    {
+      "rank": 485,
+      "name": "F owl",
+      "score": 40940
+    },
+    {
+      "rank": 486,
+      "name": "Miirrko",
+      "score": 40930
+    },
+    {
+      "rank": 487,
+      "name": "f4il",
+      "score": 40920
+    },
+    {
+      "rank": 488,
+      "name": "TaskMike",
+      "score": 40920
+    },
+    {
+      "rank": 489,
+      "name": "Snuw",
+      "score": 40910
+    },
+    {
+      "rank": 490,
+      "name": "Nyu",
+      "score": 40900
+    },
+    {
+      "rank": 491,
+      "name": "chalk zone",
+      "score": 40840
+    },
+    {
+      "rank": 492,
+      "name": "MegaMan",
+      "score": 40840
+    },
+    {
+      "rank": 493,
+      "name": "Naeu",
+      "score": 40820
+    },
+    {
+      "rank": 494,
+      "name": "ReGeywitz",
+      "score": 40820
+    },
+    {
+      "rank": 495,
+      "name": "PvM Lonewolf",
+      "score": 40780
+    },
+    {
+      "rank": 496,
+      "name": "Nooccar Gib",
+      "score": 40780
+    },
+    {
+      "rank": 497,
+      "name": "Mini Lamron",
+      "score": 40770
+    },
+    {
+      "rank": 498,
+      "name": "rs3 yikes",
+      "score": 40730
+    },
+    {
+      "rank": 499,
+      "name": "Ryno",
+      "score": 40710
+    },
+    {
+      "rank": 500,
+      "name": "Netscape101",
+      "score": 40710
+    }
+  ],
+  "static_trophy_counts": {
+    "bronze": 79243,
+    "iron": 62400,
+    "steel": 32035,
+    "mithril": 15906,
+    "adamant": 6992,
+    "rune": 1291,
+    "dragon": 214
+  }
+}
