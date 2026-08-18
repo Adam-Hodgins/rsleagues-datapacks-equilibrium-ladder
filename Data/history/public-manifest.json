@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "series": "public-league-players",
+  "league": "equilibrium",
+  "league_start": "2026-08-10T00:00:00+00:00",
+  "timezone_note": "league_day is floor((logged_at - league_start) / 86400) + 1",
+  "latest": "league-players.json",
+  "updated_at": "2026-08-18T05:10:24.225487+00:00",
+  "snapshots": [
+    {
+      "id": "20260818T051024Z",
+      "logged_at": "2026-08-18T05:10:24.225487+00:00",
+      "file": "history/public/20260818T051024Z.json",
+      "complete": true,
+      "pages_scraped": 4219,
+      "total_pages": 4219,
+      "total_players": 105464,
+      "coverage": 1.0
+    }
+  ]
+}
