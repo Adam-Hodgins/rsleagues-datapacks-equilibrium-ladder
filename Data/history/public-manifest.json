@@ -5,7 +5,7 @@
   "league_start": "2026-08-10T00:00:00+00:00",
   "timezone_note": "league_day is floor((logged_at - league_start) / 86400) + 1",
   "latest": "league-players.json",
-  "updated_at": "2026-08-20T08:48:06.159718+00:00",
+  "updated_at": "2026-08-20T12:44:21.438457+00:00",
   "snapshots": [
     {
       "id": "20260818T051024Z",
@@ -145,6 +145,16 @@
       "pages_scraped": 4394,
       "total_pages": 4394,
       "total_players": 109835,
+      "coverage": 1.0
+    },
+    {
+      "id": "20260820T124421Z",
+      "logged_at": "2026-08-20T12:44:21.438457+00:00",
+      "file": "history/public/20260820T124421Z.json",
+      "complete": true,
+      "pages_scraped": 4401,
+      "total_pages": 4401,
+      "total_players": 110012,
       "coverage": 1.0
     }
   ]
