@@ -5,7 +5,7 @@
   "league_start": "2026-08-10T00:00:00+00:00",
   "timezone_note": "league_day is floor((logged_at - league_start) / 86400) + 1",
   "latest": "tracked-profiles.json",
-  "updated_at": "2026-08-29T19:22:10.335393+00:00",
+  "updated_at": "2026-08-29T22:22:14.377528+00:00",
   "snapshots": [
     {
       "id": "20260818T032130Z",
@@ -1147,6 +1147,14 @@
       "id": "20260829T192210Z",
       "logged_at": "2026-08-29T19:22:10.335393+00:00",
       "file": "history/tracked/20260829T192210Z.json",
+      "tracked_count": 109,
+      "scraped_count": 102,
+      "failed_count": 7
+    },
+    {
+      "id": "20260829T222214Z",
+      "logged_at": "2026-08-29T22:22:14.377528+00:00",
+      "file": "history/tracked/20260829T222214Z.json",
       "tracked_count": 109,
       "scraped_count": 102,
       "failed_count": 7
