@@ -1,0 +1,681 @@
+{
+  "schema_version": 1,
+  "series": "tracked-profiles",
+  "logged_at": "2026-09-01T18:22:10.971217+00:00",
+  "source_tracked": "https://script.google.com/macros/s/AKfycbyEamckhaHNvgDtq4Moe7T11gRb1FhG0dr88tKSbS8u0Jq7wStFq0QKYhzq5B68w3qx/exec?tracked=1&fresh=1",
+  "tracked_count": 112,
+  "scraped_count": 103,
+  "failed_count": 9,
+  "aggregates": {
+    "points": {
+      "count": 103,
+      "sum": 3291450,
+      "mean": 31955.8,
+      "median": 29310,
+      "min": 3460,
+      "max": 76240,
+      "p25": 21575,
+      "p75": 46140,
+      "p90": 51940,
+      "p99": 67157
+    }
+  },
+  "players": [
+    {
+      "name": "A Dumb Rat",
+      "league_points": 76240,
+      "total_level": 3228,
+      "rank_by_points": 1
+    },
+    {
+      "name": "Group Ulwan",
+      "league_points": 67270,
+      "total_level": 3180,
+      "rank_by_points": 2
+    },
+    {
+      "name": "Autonoey",
+      "league_points": 61600,
+      "total_level": 3107,
+      "rank_by_points": 3
+    },
+    {
+      "name": "Vulpisfoglia",
+      "league_points": 61260,
+      "total_level": 3148,
+      "rank_by_points": 4
+    },
+    {
+      "name": "Stoffer",
+      "league_points": 57370,
+      "total_level": 3118,
+      "rank_by_points": 5
+    },
+    {
+      "name": "V2 in my Gym",
+      "league_points": 56000,
+      "total_level": 3175,
+      "rank_by_points": 6
+    },
+    {
+      "name": "G3MKRAFT3R",
+      "league_points": 54890,
+      "total_level": 3215,
+      "rank_by_points": 7
+    },
+    {
+      "name": "TheDailyFind",
+      "league_points": 54310,
+      "total_level": 3105,
+      "rank_by_points": 8
+    },
+    {
+      "name": "MugiWugi3",
+      "league_points": 53690,
+      "total_level": 3158,
+      "rank_by_points": 9
+    },
+    {
+      "name": "Farwger",
+      "league_points": 53270,
+      "total_level": 3114,
+      "rank_by_points": 10
+    },
+    {
+      "name": "Booyaka_blah",
+      "league_points": 52070,
+      "total_level": 3021,
+      "rank_by_points": 11
+    },
+    {
+      "name": "Awes0meGod",
+      "league_points": 51420,
+      "total_level": 3078,
+      "rank_by_points": 12
+    },
+    {
+      "name": "ThePvmExpert",
+      "league_points": 50970,
+      "total_level": 3086,
+      "rank_by_points": 13
+    },
+    {
+      "name": "19Crispy94",
+      "league_points": 50740,
+      "total_level": 3151,
+      "rank_by_points": 14
+    },
+    {
+      "name": "zalazarat",
+      "league_points": 50270,
+      "total_level": 3118,
+      "rank_by_points": 15
+    },
+    {
+      "name": "brun o",
+      "league_points": 50250,
+      "total_level": 3059,
+      "rank_by_points": 16
+    },
+    {
+      "name": "TurboEnjoyer",
+      "league_points": 50000,
+      "total_level": 3071,
+      "rank_by_points": 17
+    },
+    {
+      "name": "brettbrown",
+      "league_points": 49510,
+      "total_level": 3101,
+      "rank_by_points": 18
+    },
+    {
+      "name": "Repaeler",
+      "league_points": 48480,
+      "total_level": 3055,
+      "rank_by_points": 19
+    },
+    {
+      "name": "Pom Pi Dom",
+      "league_points": 48480,
+      "total_level": 2955,
+      "rank_by_points": 20
+    },
+    {
+      "name": "Easymaister",
+      "league_points": 48400,
+      "total_level": 3049,
+      "rank_by_points": 21
+    },
+    {
+      "name": "Inferno Bren",
+      "league_points": 48080,
+      "total_level": 3069,
+      "rank_by_points": 22
+    },
+    {
+      "name": "W isp",
+      "league_points": 48060,
+      "total_level": 3070,
+      "rank_by_points": 23
+    },
+    {
+      "name": "Wicky Woo",
+      "league_points": 48020,
+      "total_level": 3008,
+      "rank_by_points": 24
+    },
+    {
+      "name": "Trollalot",
+      "league_points": 48000,
+      "total_level": 3161,
+      "rank_by_points": 25
+    },
+    {
+      "name": "brick hand",
+      "league_points": 46380,
+      "total_level": 3096,
+      "rank_by_points": 26
+    },
+    {
+      "name": "Mage Orc 69",
+      "league_points": 45900,
+      "total_level": 2917,
+      "rank_by_points": 27
+    },
+    {
+      "name": "spinachtheif",
+      "league_points": 42880,
+      "total_level": 2989,
+      "rank_by_points": 28
+    },
+    {
+      "name": "Bokchoiii",
+      "league_points": 42810,
+      "total_level": 3026,
+      "rank_by_points": 29
+    },
+    {
+      "name": "Plertz",
+      "league_points": 40840,
+      "total_level": 2955,
+      "rank_by_points": 30
+    },
+    {
+      "name": "Gudrus",
+      "league_points": 40810,
+      "total_level": 3066,
+      "rank_by_points": 31
+    },
+    {
+      "name": "Pyrrhonius",
+      "league_points": 40800,
+      "total_level": 3090,
+      "rank_by_points": 32
+    },
+    {
+      "name": "ErebusServus",
+      "league_points": 39930,
+      "total_level": 2855,
+      "rank_by_points": 33
+    },
+    {
+      "name": "dnds",
+      "league_points": 39540,
+      "total_level": 2951,
+      "rank_by_points": 34
+    },
+    {
+      "name": "GIM Loading",
+      "league_points": 38000,
+      "total_level": 3075,
+      "rank_by_points": 35
+    },
+    {
+      "name": "Novashield",
+      "league_points": 37470,
+      "total_level": 2885,
+      "rank_by_points": 36
+    },
+    {
+      "name": "leaguescoin",
+      "league_points": 36710,
+      "total_level": 2985,
+      "rank_by_points": 37
+    },
+    {
+      "name": "Mystic Manor",
+      "league_points": 36510,
+      "total_level": 3016,
+      "rank_by_points": 38
+    },
+    {
+      "name": "Velmare",
+      "league_points": 36200,
+      "total_level": 2878,
+      "rank_by_points": 39
+    },
+    {
+      "name": "Yeetabix420",
+      "league_points": 34780,
+      "total_level": 2987,
+      "rank_by_points": 40
+    },
+    {
+      "name": "SoftCheeze",
+      "league_points": 33510,
+      "total_level": 2822,
+      "rank_by_points": 41
+    },
+    {
+      "name": "Dolcina",
+      "league_points": 33360,
+      "total_level": 2841,
+      "rank_by_points": 42
+    },
+    {
+      "name": "panda lover0",
+      "league_points": 32640,
+      "total_level": 2906,
+      "rank_by_points": 43
+    },
+    {
+      "name": "fieryaleeco",
+      "league_points": 32600,
+      "total_level": 2707,
+      "rank_by_points": 44
+    },
+    {
+      "name": "Uity",
+      "league_points": 32450,
+      "total_level": 2756,
+      "rank_by_points": 45
+    },
+    {
+      "name": "IAmBoosh",
+      "league_points": 31180,
+      "total_level": 2796,
+      "rank_by_points": 46
+    },
+    {
+      "name": "Juumm",
+      "league_points": 30900,
+      "total_level": 2888,
+      "rank_by_points": 47
+    },
+    {
+      "name": "Dinkle",
+      "league_points": 30530,
+      "total_level": 2854,
+      "rank_by_points": 48
+    },
+    {
+      "name": "Aquamervine",
+      "league_points": 30050,
+      "total_level": 2976,
+      "rank_by_points": 49
+    },
+    {
+      "name": "OG Vis",
+      "league_points": 29670,
+      "total_level": 2859,
+      "rank_by_points": 50
+    },
+    {
+      "name": "astral maria",
+      "league_points": 29600,
+      "total_level": 2595,
+      "rank_by_points": 51
+    },
+    {
+      "name": "Lil Eugen",
+      "league_points": 29310,
+      "total_level": 2687,
+      "rank_by_points": 52
+    },
+    {
+      "name": "H_Typhoon",
+      "league_points": 28620,
+      "total_level": 2805,
+      "rank_by_points": 53
+    },
+    {
+      "name": "Adalone",
+      "league_points": 27990,
+      "total_level": 2826,
+      "rank_by_points": 54
+    },
+    {
+      "name": "Genodiane",
+      "league_points": 27960,
+      "total_level": 2672,
+      "rank_by_points": 55
+    },
+    {
+      "name": "Murhox",
+      "league_points": 27610,
+      "total_level": 2613,
+      "rank_by_points": 56
+    },
+    {
+      "name": "on toast",
+      "league_points": 27400,
+      "total_level": 2640,
+      "rank_by_points": 57
+    },
+    {
+      "name": "OldenShaper",
+      "league_points": 27340,
+      "total_level": 2770,
+      "rank_by_points": 58
+    },
+    {
+      "name": "Qwerty Ag",
+      "league_points": 27000,
+      "total_level": 2628,
+      "rank_by_points": 59
+    },
+    {
+      "name": "Elendil57",
+      "league_points": 26450,
+      "total_level": 2760,
+      "rank_by_points": 60
+    },
+    {
+      "name": "Jade Fingers",
+      "league_points": 26430,
+      "total_level": 2517,
+      "rank_by_points": 61
+    },
+    {
+      "name": "Marsh Again",
+      "league_points": 25340,
+      "total_level": 2572,
+      "rank_by_points": 62
+    },
+    {
+      "name": "desfigur4t3d",
+      "league_points": 25010,
+      "total_level": 2399,
+      "rank_by_points": 63
+    },
+    {
+      "name": "CapnCooomer",
+      "league_points": 24460,
+      "total_level": 2560,
+      "rank_by_points": 64
+    },
+    {
+      "name": "pond rat",
+      "league_points": 24430,
+      "total_level": 2439,
+      "rank_by_points": 65
+    },
+    {
+      "name": "CaffeineMonk",
+      "league_points": 24280,
+      "total_level": 2579,
+      "rank_by_points": 66
+    },
+    {
+      "name": "misterdonut7",
+      "league_points": 24270,
+      "total_level": 2386,
+      "rank_by_points": 67
+    },
+    {
+      "name": "FernMoon",
+      "league_points": 24160,
+      "total_level": 2486,
+      "rank_by_points": 68
+    },
+    {
+      "name": "the red lexx",
+      "league_points": 23820,
+      "total_level": 2709,
+      "rank_by_points": 69
+    },
+    {
+      "name": "Hurvardetnu",
+      "league_points": 23780,
+      "total_level": 2636,
+      "rank_by_points": 70
+    },
+    {
+      "name": "TheLeftWing",
+      "league_points": 23730,
+      "total_level": 2577,
+      "rank_by_points": 71
+    },
+    {
+      "name": "BondSmithIM",
+      "league_points": 23610,
+      "total_level": 2611,
+      "rank_by_points": 72
+    },
+    {
+      "name": "fan of faker",
+      "league_points": 23560,
+      "total_level": 2506,
+      "rank_by_points": 73
+    },
+    {
+      "name": "OneIceburg",
+      "league_points": 23340,
+      "total_level": 2511,
+      "rank_by_points": 74
+    },
+    {
+      "name": "AdziiMate",
+      "league_points": 23050,
+      "total_level": 2512,
+      "rank_by_points": 75
+    },
+    {
+      "name": "Tyman533",
+      "league_points": 22510,
+      "total_level": 2410,
+      "rank_by_points": 76
+    },
+    {
+      "name": "0tw0",
+      "league_points": 22130,
+      "total_level": 2480,
+      "rank_by_points": 77
+    },
+    {
+      "name": "Alextras",
+      "league_points": 21020,
+      "total_level": 2437,
+      "rank_by_points": 78
+    },
+    {
+      "name": "Cailicat",
+      "league_points": 20740,
+      "total_level": 2476,
+      "rank_by_points": 79
+    },
+    {
+      "name": "0-DEATH 0-0",
+      "league_points": 20080,
+      "total_level": 2405,
+      "rank_by_points": 80
+    },
+    {
+      "name": "Pyr0mega",
+      "league_points": 19270,
+      "total_level": 2382,
+      "rank_by_points": 81
+    },
+    {
+      "name": "St steammy",
+      "league_points": 18650,
+      "total_level": 2459,
+      "rank_by_points": 82
+    },
+    {
+      "name": "Tassadar",
+      "league_points": 17000,
+      "total_level": 2448,
+      "rank_by_points": 83
+    },
+    {
+      "name": "Dwena",
+      "league_points": 16600,
+      "total_level": 2266,
+      "rank_by_points": 84
+    },
+    {
+      "name": "ZeeEmTee",
+      "league_points": 16300,
+      "total_level": 2249,
+      "rank_by_points": 85
+    },
+    {
+      "name": "Dorris Shutt",
+      "league_points": 16110,
+      "total_level": 2533,
+      "rank_by_points": 86
+    },
+    {
+      "name": "J 3 c k a l",
+      "league_points": 14980,
+      "total_level": 2278,
+      "rank_by_points": 87
+    },
+    {
+      "name": "Feesh kitty",
+      "league_points": 14700,
+      "total_level": 2310,
+      "rank_by_points": 88
+    },
+    {
+      "name": "Viper Bot",
+      "league_points": 14420,
+      "total_level": 2516,
+      "rank_by_points": 89
+    },
+    {
+      "name": "Xufiie",
+      "league_points": 14410,
+      "total_level": 2179,
+      "rank_by_points": 90
+    },
+    {
+      "name": "Lorden Kriss",
+      "league_points": 14080,
+      "total_level": 2209,
+      "rank_by_points": 91
+    },
+    {
+      "name": "VaranOSAAT",
+      "league_points": 13020,
+      "total_level": 2234,
+      "rank_by_points": 92
+    },
+    {
+      "name": "Mathemagicks",
+      "league_points": 12910,
+      "total_level": 1994,
+      "rank_by_points": 93
+    },
+    {
+      "name": "Bronsmaneter",
+      "league_points": 12510,
+      "total_level": 2120,
+      "rank_by_points": 94
+    },
+    {
+      "name": "Plutomic",
+      "league_points": 12110,
+      "total_level": 1863,
+      "rank_by_points": 95
+    },
+    {
+      "name": "revival21",
+      "league_points": 10320,
+      "total_level": 2012,
+      "rank_by_points": 96
+    },
+    {
+      "name": "Vivisim ex",
+      "league_points": 10310,
+      "total_level": 1865,
+      "rank_by_points": 97
+    },
+    {
+      "name": "Stoican",
+      "league_points": 8880,
+      "total_level": 1929,
+      "rank_by_points": 98
+    },
+    {
+      "name": "Catseatchees",
+      "league_points": 7840,
+      "total_level": 1815,
+      "rank_by_points": 99
+    },
+    {
+      "name": "AttackKrow",
+      "league_points": 7540,
+      "total_level": 1575,
+      "rank_by_points": 100
+    },
+    {
+      "name": "SUSHI STEFAN",
+      "league_points": 6350,
+      "total_level": 1549,
+      "rank_by_points": 101
+    },
+    {
+      "name": "printerror",
+      "league_points": 5550,
+      "total_level": 1645,
+      "rank_by_points": 102
+    },
+    {
+      "name": "Mass Epsilon",
+      "league_points": 3460,
+      "total_level": 945,
+      "rank_by_points": 103
+    }
+  ],
+  "failed": [
+    {
+      "name": "Alchamech",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Alchamech"
+    },
+    {
+      "name": "D bro",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/D%20bro"
+    },
+    {
+      "name": "Drahenvolt",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Drahenvolt"
+    },
+    {
+      "name": "Exotic Nerd",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Exotic%20Nerd"
+    },
+    {
+      "name": "Fifth_sage",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Fifth_sage"
+    },
+    {
+      "name": "Hellder7",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Hellder7"
+    },
+    {
+      "name": "Idolum",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/Idolum"
+    },
+    {
+      "name": "TrustedSoul",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/TrustedSoul"
+    },
+    {
+      "name": "ZacksDopeGIM",
+      "error": "404 Client Error: Not Found for url: https://rs.runescape.com/hiscores/leagues/player/ZacksDopeGIM"
+    }
+  ]
+}
