@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-09-22T12:22:07.745412+00:00",
+  "logged_at": "2026-09-22T11:22:43.892912+00:00",
   "source_tracked": "https://script.google.com/macros/s/AKfycbyEamckhaHNvgDtq4Moe7T11gRb1FhG0dr88tKSbS8u0Jq7wStFq0QKYhzq5B68w3qx/exec?tracked=1&fresh=1",
   "tracked_count": 116,
   "scraped_count": 0,
@@ -223,19 +223,19 @@
     },
     {
       "name": "Inferno Bren",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/Inferno%20Bren"
     },
     {
       "name": "J 3 c k a l",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/J%203%20c%20k%20a%20l"
     },
     {
       "name": "Jade Fingers",
-      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/Jade%20Fingers"
+      "error": "Could not parse profile skills/totals"
     },
     {
       "name": "Juumm",
-      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/Juumm"
+      "error": "Could not parse profile skills/totals"
     },
     {
       "name": "leaguescoin",
@@ -339,7 +339,7 @@
     },
     {
       "name": "Qwerty Ag",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/Qwerty%20Ag"
     },
     {
       "name": "Repaeler",
@@ -443,11 +443,11 @@
     },
     {
       "name": "W isp",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/W%20isp"
     },
     {
       "name": "Wicky Woo",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/Wicky%20Woo"
     },
     {
       "name": "Xufiie",
