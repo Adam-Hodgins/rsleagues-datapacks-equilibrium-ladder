@@ -1,5 +1,5 @@
 {
-  "logged_at": "2026-09-22T09:22:18.997254+00:00",
+  "logged_at": "2026-09-22T10:38:27.344265+00:00",
   "source_tracked": "https://script.google.com/macros/s/AKfycbyEamckhaHNvgDtq4Moe7T11gRb1FhG0dr88tKSbS8u0Jq7wStFq0QKYhzq5B68w3qx/exec?tracked=1&fresh=1",
   "tracked_count": 116,
   "scraped_count": 0,
@@ -7,7 +7,7 @@
   "failed": [
     {
       "name": "0-DEATH 0-0",
-      "error": "Could not parse profile skills/totals"
+      "error": "504 Server Error: Gateway Timeout for url: https://rs.runescape.com/hiscores/leagues/player/0-DEATH%200-0"
     },
     {
       "name": "0tw0",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Autonoey",
-      "error": "Could not parse profile skills/totals"
+      "error": "504 Server Error: Gateway Timeout for url: https://rs.runescape.com/hiscores/leagues/player/Autonoey"
     },
     {
       "name": "Awes0meGod",
@@ -71,11 +71,11 @@
     },
     {
       "name": "Brawurowy",
-      "error": "Could not parse profile skills/totals"
+      "error": "502 Server Error: Bad Gateway for url: https://rs.runescape.com/hiscores/leagues/player/Brawurowy"
     },
     {
       "name": "brettbrown",
-      "error": "Could not parse profile skills/totals"
+      "error": "504 Server Error: Gateway Timeout for url: https://rs.runescape.com/hiscores/leagues/player/brettbrown"
     },
     {
       "name": "brick hand",
@@ -91,11 +91,11 @@
     },
     {
       "name": "CaffeineMonk",
-      "error": "Could not parse profile skills/totals"
+      "error": "HTTPSConnectionPool(host='rs.runescape.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "name": "Cailicat",
-      "error": "Could not parse profile skills/totals"
+      "error": "502 Server Error: Bad Gateway for url: https://rs.runescape.com/hiscores/leagues/player/Cailicat"
     },
     {
       "name": "CapnCooomer",
@@ -359,15 +359,15 @@
     },
     {
       "name": "St steammy",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/St%20steammy"
     },
     {
       "name": "Stoffer",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/Stoffer"
     },
     {
       "name": "Stoican",
-      "error": "Could not parse profile skills/totals"
+      "error": "429 Client Error: Too Many Requests for url: https://rs.runescape.com/hiscores/leagues/player/Stoican"
     },
     {
       "name": "SUSHI STEFAN",
